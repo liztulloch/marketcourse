@@ -56,3 +56,48 @@ clients/
 ├── marketdata_client.py
 ├── alpha_vantage_client.py
 └── sec_client.py
+
+
+NOW
+[ ] UserProfile model
+[ ] StockService
+[ ] normalized Stock model
+
+NEXT
+[ ] AnalyticsService
+    [ ] returns
+    [ ] moving averages
+    [ ] volatility
+    [ ] growth
+    [ ] profitability
+    [ ] financial health
+    [ ] valuation
+
+THEN
+[ ] scoring methodology
+[ ] DiscoveryService
+[ ] personalized match score
+[ ] explainable scores
+[ ] ComparisonService
+
+THEN AI
+[ ] FilingService
+[ ] SEC text cleaning
+[ ] SEC section extraction
+[ ] chunking
+[ ] PostgreSQL
+[ ] pgvector
+[ ] EmbeddingService
+[ ] educational knowledge
+[ ] RAGService
+
+THEN PRODUCT
+[ ] backend routes
+[ ] authentication/users
+[ ] frontend dashboard
+[ ] profile onboarding
+[ ] stock search
+[ ] stock detail page
+[ ] comparisons
+[ ] watchlist
+[ ] AI tutor

@@ -7,7 +7,7 @@ load_dotenv()
 
 class AlphaVantageClient:
     def __init__(self):
-        self.api_key = os.getenv("ALPHA_VANTAGE_API_KEY")
+        self.api_key = os.getenv("ALPHAVANTAGE_API_KEY")
         self.base_url = "https://www.alphavantage.co/query"
 
         if not self.api_key:
