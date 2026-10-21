@@ -49,6 +49,11 @@ Used for official company filings:
 
 SEC filings will eventually be processed and stored for the educational RAG chatbot so users can ask questions about a company's filings.
 
+running backend: 
+
+uvicorn src.app:app --reload
+
+
 ## Current Structure
 
 ```text
