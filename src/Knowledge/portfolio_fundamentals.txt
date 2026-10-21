@@ -1,0 +1,39 @@
+PORTFOLIO FUNDAMENTALS: TERM DEFINITIONS
+
+Portfolio
+The collection of all investments an individual or institution holds, such as stocks, bonds, funds, cash, and real estate. A portfolio's total return and risk come from its holdings combined, not from any single investment alone.
+
+Diversification
+Spreading money across many different investments so that no single one has an outsized effect on the whole portfolio. Works because different investments do not all move the same way at the same time. Diversification reduces unsystematic (company- or industry-specific) risk but cannot eliminate systematic (market-wide) risk. Can be done across companies, sectors, asset classes, and geographies. Owning many stocks that are highly similar (for example, many technology stocks) provides less diversification than the count suggests.
+
+Asset allocation
+How a portfolio is divided among major asset classes, such as stocks, bonds, cash, and alternatives. Example: 70% stocks, 25% bonds, 5% cash. Asset allocation is a primary driver of a portfolio's overall risk and return, and is generally set according to goals, time horizon, and risk tolerance.
+
+Position sizing
+Deciding how much of a portfolio to put into a single investment. Commonly expressed as a percentage of total portfolio value. Example: a $1,000 holding in a $20,000 portfolio is a 5% position. Larger positions raise both potential gain and potential loss from that one holding. Common approaches include equal-sized positions and capping any one position at a fixed maximum percentage.
+
+Concentration risk
+The risk of large losses because a portfolio is heavily invested in a single stock, sector, asset class, or region. If that concentrated holding falls, the portfolio falls by a large amount. Can arise unintentionally, for example when one holding grows much faster than the rest or when an investor owns company stock from their employer. Reduced by diversification and by limiting position sizes.
+
+Correlation
+A measure of how closely two investments' returns move together, expressed as a number from -1 to +1. +1 means they move in perfect lockstep, 0 means no relationship, and -1 means they move in exactly opposite directions. Combining investments with low or negative correlation lowers the overall volatility of a portfolio. Correlations are not fixed; they can rise during market stress, when many assets fall at once.
+
+Rebalancing
+Adjusting a portfolio back to its target asset allocation by selling holdings that have grown above their target share and buying those that have fallen below. Example: a 60/40 stock/bond portfolio drifts to 70/30 after a stock rally; rebalancing sells some stocks and buys bonds to restore 60/40. Keeps risk level consistent with the original plan. Can be done on a schedule (such as annually) or when allocations drift past a set threshold. May trigger transaction costs and taxes in taxable accounts.
+
+Dollar-cost averaging (DCA)
+Investing a fixed dollar amount at regular intervals (such as monthly) regardless of the price. When prices are low the fixed amount buys more shares; when prices are high it buys fewer. Reduces the risk of investing everything at a market peak and removes the need to time the market. It does not guarantee a profit or protect against loss in a declining market. A regular contribution from each paycheck into a retirement account is a common example.
+
+Lump-sum investing
+Investing a full amount of available money all at once rather than spreading it over time. Because markets have historically risen more often than fallen, lump-sum investing has historically produced higher average returns than dollar-cost averaging over the same period, since the money is invested for longer. The tradeoff is greater exposure to the risk of investing right before a decline.
+
+Compound returns
+Earning returns on both the original investment and on previously earned returns. Formula: Future Value = Principal x (1 + r)^n, where r is the return per period and n is the number of periods. Example: $1,000 at 7% per year grows to about $1,967 after 10 years, versus $1,700 with simple (non-compounding) interest. The effect grows larger the longer money stays invested. Reinvesting dividends is a form of compounding. Losses also compound: a 50% loss requires a 100% gain to recover.
+
+Capital preservation
+An investment goal focused on protecting the original amount invested rather than maximizing growth. Typically involves lower-risk investments such as cash equivalents, short-term government securities, and high-quality bonds. Common for investors with short time horizons or low risk tolerance, such as those near or in retirement. Lower risk generally means lower expected returns, and inflation can erode the purchasing power of preserved capital.
+
+Growth vs. income investing
+Growth investing: focuses on increasing the value of investments over time, mainly through price appreciation. Favors companies expected to expand quickly, which typically reinvest profits and pay little or no dividends. Higher potential return and higher volatility.
+Income investing: focuses on generating regular cash payments from investments, such as dividends from stocks and interest from bonds. Favors established, stable companies and fixed-income securities. Typically lower volatility and slower price growth.
+The two approaches can be combined, and a total return approach considers both price growth and income together.

@@ -1,0 +1,45 @@
+RISK AND RETURN: TERM DEFINITIONS
+
+Investment return
+The gain or loss on an investment over a period, expressed as a percentage of the amount originally invested. Formula: Return = (Ending Value - Beginning Value + Income Received) / Beginning Value x 100. Example: a stock bought at $50, worth $55 at period end, with no dividends = 10% return. Can be positive or negative.
+
+Total return
+Return that includes both price change and income (dividends, interest), with income assumed reinvested unless stated otherwise. Formula: Total Return = (Ending Price - Beginning Price + Dividends) / Beginning Price x 100. Price return alone ignores dividends and understates the return of dividend-paying stocks. Total return is the standard measure for comparing investments.
+
+Annualized return
+A return converted to a per-year rate so periods of different lengths can be compared. Formula (compound annualized return, also called CAGR): Annualized Return = (Ending Value / Beginning Value)^(1 / Years) - 1. Example: $100 grows to $150 over 3 years = (1.5)^(1/3) - 1 = about 14.5% per year. For periods shorter than a year, the same formula is used with years as a fraction (e.g., 0.5). Annualizing short periods can be misleading because the return is unlikely to repeat. Annualized return is a smoothed rate; actual yearly returns vary.
+
+Volatility
+How much an investment's returns vary over time. Higher volatility means larger and more frequent price swings, up and down. Usually measured as the standard deviation of returns. Volatility measures the size of fluctuations, not their direction, and not the chance of permanent loss. Annualized volatility converts volatility measured over shorter periods to a one-year basis. Formula: Annualized Volatility = Daily Standard Deviation x sqrt(252), using 252 trading days per year (monthly: x sqrt(12); weekly: x sqrt(52)). The conversion assumes returns are independent from period to period.
+
+Standard deviation
+A statistical measure of how far values typically fall from their average. In investing, it is the standard measure of volatility. Formula: Standard Deviation = sqrt( sum of (r_i - mean return)^2 / (n - 1) ), where r_i is the return in each period and n is the number of periods. Example: if a stock has an annualized standard deviation of 20% and an average return of 8%, then about two-thirds of the time, yearly returns would be expected to fall roughly between -12% and 28% (assuming returns follow a normal distribution, which real returns only approximately do; extreme moves happen more often than that model suggests).
+
+Beta
+Measures how much a stock tends to move relative to the overall market (usually the S&P 500). Formula: Beta = Covariance(Stock Returns, Market Returns) / Variance(Market Returns). The market has a beta of 1.0. Beta above 1 means the stock has tended to move more than the market (a beta of 1.5 means about 1.5% move for each 1% market move); below 1 means it has tended to move less; negative beta means it has tended to move opposite to the market. Beta measures only systematic (market) risk, is calculated from past data, and changes depending on the time window and benchmark used.
+
+Alpha
+The return of an investment in excess of what would be expected given its level of market risk (beta). Formula (Jensen's alpha): Alpha = Actual Return - [Risk-Free Rate + Beta x (Market Return - Risk-Free Rate)]. Positive alpha means the investment outperformed its risk-adjusted benchmark; negative means it underperformed. In casual use, alpha sometimes just means return above a benchmark index.
+
+Sharpe ratio
+Measures return earned per unit of total risk (volatility). Formula: Sharpe Ratio = (Portfolio Return - Risk-Free Rate) / Standard Deviation of Portfolio Returns, with return and standard deviation on the same (usually annualized) basis. Higher is better: it shows more return for the risk taken. Rough rule of thumb: below 1 is modest, 1-2 is good, above 2 is very good. Limitations: treats upside and downside volatility the same, and assumes returns are roughly normally distributed. The risk-free rate is typically a short-term U.S. Treasury yield.
+
+Drawdown
+The decline from an investment's previous peak value to a subsequent low, before a new peak is reached. Formula: Drawdown = (Trough Value - Peak Value) / Peak Value x 100. Example: a stock falls from $100 to $70 = a 30% drawdown. Shows how much an investor would have lost if they bought at the peak. Recovery from a drawdown requires a larger percentage gain than the loss (a 50% drop needs a 100% gain to break even).
+
+Maximum drawdown
+The largest peak-to-trough decline over a specified period. Formula: Max Drawdown = the minimum value of (Value_t - Running Peak_t) / Running Peak_t across all dates t in the period. Represents the worst historical loss from a high point. It depends on the time window chosen and does not guarantee future losses will stay within it.
+
+Systematic vs. unsystematic risk
+Systematic risk (market risk): risk that affects the entire market or large parts of it, such as recessions, interest rate changes, inflation, and geopolitical events. It cannot be removed by diversification. Measured by beta.
+Unsystematic risk (specific or idiosyncratic risk): risk unique to a single company or industry, such as a failed product, lawsuit, management change, or fraud. It can be reduced by diversifying across many holdings.
+Total risk = systematic risk + unsystematic risk. Investors are generally compensated with higher expected returns only for taking systematic risk, since the other kind can be diversified away.
+
+Risk vs. return
+The principle that higher potential returns generally come with higher risk of loss or variability. Lower-risk assets (such as Treasury bills) tend to offer lower expected returns; higher-risk assets (such as stocks) have historically offered higher average returns but with larger swings and the possibility of losses. The tradeoff is about expected returns, not guaranteed ones: taking more risk does not ensure higher returns.
+
+Time horizon
+The length of time an investor expects to hold an investment before needing the money. Longer horizons generally allow more time to recover from market declines and let investors hold more volatile assets such as stocks. Shorter horizons call for more stable assets because there is less time to recover from losses. Time horizon is a key input when choosing investments, along with risk tolerance.
+
+Risk tolerance
+An investor's willingness and ability to endure losses or large swings in investment value. Willingness is psychological (how much decline an investor can accept without panic selling). Ability is financial (how much loss the investor's income, savings, and obligations can absorb). Influenced by time horizon, financial situation, goals, and temperament. Often grouped into conservative, moderate, and aggressive categories. Investments should match risk tolerance so an investor can stay invested through downturns.

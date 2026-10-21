@@ -1,0 +1,34 @@
+STOCK INDEXES: TERM DEFINITIONS
+
+What is a stock market index?
+A calculated measure of the performance of a group of stocks, used to represent a market, a segment of a market, or an industry. An index is a number, not something you can buy directly. Its value is computed from the prices of its component stocks using a specific rule set (which stocks are included and how each is weighted). Investors can gain exposure to an index through index funds and exchange-traded funds (ETFs) that hold its components. Index levels (for example, 5,000 points) are not dollar prices; changes are usually tracked as percentages.
+
+S&P 500
+Index of 500 large U.S. publicly traded companies, maintained by S&P Dow Jones Indices. Widely used as the main benchmark for the U.S. large-cap stock market. Weighting: float-adjusted market capitalization (only shares available to public investors count). Companies are chosen by an index committee, not by a simple ranking, from those that meet eligibility criteria, which include a minimum market capitalization (a threshold S&P updates periodically; about $22.7 billion as of the July 2026 methodology), adequate trading liquidity and public float, U.S. domicile, and positive GAAP earnings. The eligibility rules apply to additions; an existing member that falls below the threshold is not automatically removed. Index level = sum of (price x float-adjusted shares) / index divisor.
+
+Nasdaq Composite
+Market-cap-weighted index that covers nearly all common stocks listed on the Nasdaq Stock Market, including some non-U.S. companies. Contains more than 3,000 securities (the number changes as companies list, merge, or delist). Excludes securities such as ETFs, preferred shares, warrants, and rights. Technology-heavy, with a small number of very large companies making up a large part of the total weight. Symbol: COMP.
+
+Nasdaq-100
+Index of the 100 largest non-financial companies listed on the Nasdaq Stock Market. Financial companies (including banks and insurers) are excluded. Weighting: modified market-cap weighting, which adjusts weights to limit the dominance of the largest companies. Rebalanced quarterly (March, June, September, December) and reconstituted annually in December, when membership is re-evaluated and companies are added or removed. It is a subset of the Nasdaq Composite universe, not a separate set of companies. Symbol: NDX.
+
+Dow Jones Industrial Average (DJIA, "the Dow")
+Index of 30 large, well-established U.S. companies, maintained by S&P Dow Jones Indices. Components are selected by a committee, not by fixed quantitative rules, and companies are listed on the NYSE or Nasdaq. Weighting: price-weighted. Value = sum of the 30 share prices / the Dow divisor. The divisor is adjusted for stock splits, spin-offs, and component changes so the index stays continuous. A stock with a higher share price moves the index more than one with a lower share price, regardless of the company's actual size. With only 30 stocks, it is a narrower and less representative measure than the S&P 500. Not the same as the S&P 500 or the Nasdaq.
+
+Russell 2000
+Index of about 2,000 small-cap U.S. companies, maintained by FTSE Russell. Built by ranking the 3,000 largest U.S. companies by market cap (the Russell 3000); the largest 1,000 form the Russell 1000, and the remaining roughly 2,000 form the Russell 2000. Weighting: float-adjusted market cap. Rules-based membership (by market cap rank, not committee choice). Used as the main benchmark for U.S. small-cap stocks. Reconstitution: historically once a year in June; beginning in 2026, FTSE Russell moved to semi-annual reconstitution (June and December). Symbol: RUT.
+
+Market-cap weighted indexes
+Indexes where each company's weight is proportional to its market capitalization (share price x shares outstanding). Larger companies have a larger influence on the index's performance. Example: a company that is 5% of the total market cap of all components is 5% of the index. Weights shift automatically as prices change, so no trading is needed to maintain them. Some indexes (including the S&P 500) use float-adjusted market cap, which counts only publicly tradable shares. Downside: the index can become concentrated in a few very large companies. Examples: S&P 500, Nasdaq Composite, Russell 2000.
+
+Price-weighted indexes
+Indexes where each stock's influence is proportional to its share price, not its company size. Value = sum of component share prices / divisor. A $300 stock moves the index more than a $30 stock for the same percentage change. A stock split changes the share price and therefore the weight, which is why the divisor is adjusted. Example: Dow Jones Industrial Average.
+
+Equal-weighted indexes
+Indexes where every component gets the same weight regardless of size or price. Example: an equal-weighted index of 100 stocks gives each 1%. Because prices change, weights drift and must be reset periodically by rebalancing. Compared with market-cap weighting, equal weighting gives smaller companies more influence and reduces concentration in the largest companies, but typically has higher turnover and trading costs. Example: S&P 500 Equal Weight Index.
+
+Index rebalancing
+Periodic adjustment of an index's component weights back to the weights its rules call for. Frequency depends on the index (for example, the Nasdaq-100 is rebalanced quarterly). Distinct from reconstitution, which changes which companies are in the index (additions and deletions). Index funds that track the index must trade to match these changes, which can create trading volume and price movement around the effective date.
+
+Why indexes are used as benchmarks
+An index provides a standard yardstick to judge performance. Investors and fund managers compare a portfolio's or fund's return against a relevant index (for example, a U.S. large-cap stock fund against the S&P 500) to see whether it outperformed or underperformed the market segment it targets. The benchmark should match the investment's style and market segment. Indexes are also used to gauge overall market direction, as the basis for index funds and ETFs, and as a reference for measures such as beta and alpha. Indexes do not include fees or trading costs, so a real fund tracking one will return slightly less.

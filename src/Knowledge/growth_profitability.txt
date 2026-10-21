@@ -1,0 +1,40 @@
+COMPANY GROWTH & PROFITABILITY: TERM DEFINITIONS
+
+Revenue growth
+The percentage change in a company's revenue between two periods. Formula: Revenue Growth = (Current Period Revenue - Prior Period Revenue) / Prior Period Revenue x 100. Most commonly measured year over year (YoY: this quarter vs. the same quarter last year, or this fiscal year vs. last fiscal year). Quarter over quarter (QoQ) compares to the immediately preceding quarter and is more affected by seasonality. Example: revenue rises from $200M to $230M = 15% growth. A negative result means revenue declined. Revenue growth shows how fast the business is expanding its sales but says nothing about profitability. Compound annual growth rate (CAGR) smooths growth over multiple years: CAGR = (Ending Revenue / Beginning Revenue)^(1 / Years) - 1.
+
+Earnings growth
+The percentage change in net income (earnings) between two periods. Formula: Earnings Growth = (Current Net Income - Prior Net Income) / |Prior Net Income| x 100. Usually measured YoY. Can be distorted by one-time items (asset sales, write-downs, tax changes). When prior earnings are negative or near zero, the percentage is not meaningful.
+
+EPS growth
+The percentage change in earnings per share between two periods. Formula: EPS Growth = (Current EPS - Prior EPS) / |Prior EPS| x 100. Differs from earnings growth because EPS is affected by changes in share count: stock buybacks reduce shares outstanding and raise EPS growth; new share issuance dilutes it. EPS growth is the growth figure used in the PEG ratio.
+
+Profit margins
+Ratios that express profit as a percentage of revenue, showing how much of each sales dollar is kept at different stages of the income statement. The three main margins are gross margin, operating margin, and net margin. Margins are compared across time for the same company and across companies in the same industry; typical levels differ widely between industries (software vs. grocery retail, for example).
+
+Gross margin
+Percentage of revenue left after subtracting cost of goods sold (COGS). Formula: Gross Margin = (Revenue - COGS) / Revenue x 100 (equivalently, Gross Profit / Revenue). Shows production or delivery efficiency and pricing power before operating costs. Example: revenue $500M, COGS $300M = 40% gross margin.
+
+Operating margin
+Percentage of revenue left after COGS and operating expenses (SG&A, R&D, depreciation and amortization), before interest and taxes. Formula: Operating Margin = Operating Income / Revenue x 100. Shows how profitable the core business is, independent of financing and tax decisions.
+
+Net margin
+Percentage of revenue that becomes net income after all expenses, interest, and taxes. Formula: Net Margin = Net Income / Revenue x 100. The most complete margin measure, but affected by one-time items, interest costs, and tax rates. Example: revenue $500M, net income $50M = 10% net margin.
+
+Free cash flow growth
+The percentage change in free cash flow between two periods. Formula: FCF Growth = (Current FCF - Prior FCF) / |Prior FCF| x 100, where FCF = Cash Flow from Operations - Capital Expenditures. Shows whether the cash a company generates after investment is increasing. Can be volatile because CapEx and working capital changes are uneven from year to year. Not meaningful when the prior-period FCF is negative or near zero. FCF margin (FCF / Revenue) is a related measure.
+
+Return on equity (ROE)
+Net income generated per dollar of shareholders' equity. Formula: ROE = Net Income / Average Shareholders' Equity x 100. Measures how effectively a company uses owners' capital to generate profit. High debt shrinks equity and can inflate ROE, so it should be read alongside debt-to-equity. Negative equity makes ROE not meaningful. DuPont analysis splits ROE into net margin x asset turnover x financial leverage (Assets / Equity).
+
+Return on assets (ROA)
+Net income generated per dollar of total assets. Formula: ROA = Net Income / Average Total Assets x 100. Measures how efficiently a company uses everything it owns, regardless of how it is financed. Most useful for comparing companies in the same industry, since asset intensity differs across industries. ROA is typically lower than ROE for companies that use debt.
+
+Return on invested capital (ROIC)
+After-tax operating profit generated per dollar of capital invested in the business (equity plus debt). Formula: ROIC = NOPAT / Invested Capital x 100, where NOPAT = Operating Income x (1 - Tax Rate) and Invested Capital = Total Debt + Shareholders' Equity - Excess Cash. Measures how well a company turns capital from both debt and equity holders into profit. A ROIC above the company's cost of capital (WACC) means it is creating value; below it, destroying value. Definitions of invested capital vary slightly between analysts.
+
+Debt-to-equity (D/E)
+Measures how much a company is financed by debt relative to shareholder equity. Formula: D/E = Total Liabilities / Shareholders' Equity (some analysts use only interest-bearing debt in the numerator). Example: $400M liabilities, $200M equity = D/E of 2.0. Higher values mean more leverage and more financial risk, especially if earnings are unstable. Acceptable levels vary by industry (utilities and banks typically run higher than software companies). Negative equity makes the ratio not meaningful.
+
+Current ratio
+Measures a company's ability to pay short-term obligations with short-term assets. Formula: Current Ratio = Current Assets / Current Liabilities. Example: $300M current assets, $200M current liabilities = 1.5. A ratio below 1 means current liabilities exceed current assets, which can signal liquidity risk. A very high ratio can indicate inefficient use of assets (excess cash or inventory). The quick ratio is a stricter version that excludes inventory: (Current Assets - Inventory) / Current Liabilities.

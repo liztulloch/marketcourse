@@ -1,0 +1,54 @@
+FINANCIAL STATEMENTS: TERM DEFINITIONS
+
+Financial statements
+Standardized reports a company publishes to show its financial performance and position. The three core statements are the income statement, balance sheet, and cash flow statement. Public companies in the U.S. file them quarterly (10-Q) and annually (10-K).
+
+Income statement
+Reports revenues, expenses, and profit over a period of time (quarter or year). Also called the profit and loss (P&L) statement or statement of operations. It answers: did the company make money during this period? Basic structure: revenue - cost of goods sold = gross profit; - operating expenses = operating income; - interest and taxes = net income.
+
+Balance sheet
+Reports what a company owns (assets), what it owes (liabilities), and what is left for owners (shareholders' equity) at a single point in time. It follows the equation: Assets = Liabilities + Shareholders' Equity.
+
+Cash flow statement
+Reports actual cash moving in and out of a company over a period, split into three sections: operating activities (cash from core business), investing activities (purchases or sales of long-term assets such as equipment or investments), and financing activities (borrowing, repaying debt, issuing or buying back stock, paying dividends). It shows how cash changed, which can differ from reported profit because of accrual accounting.
+
+Revenue
+Total money earned from selling goods or services before any expenses are subtracted. Also called sales or the "top line." Formula: units sold x price per unit (or total of all sales).
+
+Gross profit
+Revenue minus cost of goods sold (COGS). COGS covers direct costs of producing what was sold, such as materials and direct labor. Formula: Gross Profit = Revenue - COGS. Gross margin = Gross Profit / Revenue.
+
+Operating income
+Profit from core business operations, before interest and income taxes. Also called EBIT (earnings before interest and taxes) or operating profit. Formula: Operating Income = Gross Profit - Operating Expenses (such as SG&A, R&D, and depreciation). Operating margin = Operating Income / Revenue.
+
+Net income
+Profit remaining after all expenses, interest, and taxes are subtracted from revenue. Also called net earnings or the "bottom line." Formula: Net Income = Operating Income - Interest Expense - Taxes (+/- other income and expenses). Earnings per share (EPS) = Net Income / shares outstanding.
+
+Free cash flow (FCF)
+Cash a company generates after paying for the investments needed to maintain or grow its asset base. It is the cash available to pay debt, pay dividends, buy back stock, or reinvest. Formula: FCF = Cash Flow from Operations - Capital Expenditures.
+
+Assets vs. liabilities
+Assets: resources a company owns or controls that have economic value. Examples: cash, accounts receivable, inventory, equipment, property, patents. Split into current assets (expected to be used or converted to cash within one year) and non-current assets (longer term).
+Liabilities: obligations a company owes to others. Examples: accounts payable, wages payable, deferred revenue, loans, bonds. Split into current liabilities (due within one year) and non-current liabilities (due after one year).
+Relationship: assets are what the company has; liabilities are what it owes. Net of the two is shareholders' equity.
+
+Shareholders' equity
+The owners' residual claim on assets after all liabilities are paid. Also called stockholders' equity or book value. Formula: Shareholders' Equity = Total Assets - Total Liabilities. Main components: common stock and additional paid-in capital (money invested by shareholders), retained earnings (cumulative profits not paid out as dividends), and treasury stock (shares the company bought back, which reduces equity).
+
+Capital expenditures (CapEx)
+Money spent to buy, upgrade, or extend the life of long-term physical or intangible assets, such as equipment, buildings, vehicles, and software. CapEx is recorded as an asset on the balance sheet (not expensed immediately) and is spread over time through depreciation. It appears in the investing section of the cash flow statement. Contrast with operating expenses, which are day-to-day costs expensed in the period incurred.
+
+Depreciation & amortization (D&A)
+Non-cash accounting charges that spread the cost of a long-term asset over its useful life.
+Depreciation: applies to tangible assets (machinery, buildings, vehicles).
+Amortization: applies to intangible assets (patents, trademarks, licenses, capitalized software).
+D&A reduces net income on the income statement and reduces the asset's book value on the balance sheet, but involves no cash outflow in the period. It is added back in the operating section of the cash flow statement.
+
+How the three financial statements connect
+- Net income from the income statement flows into retained earnings on the balance sheet (net income minus dividends paid is added to retained earnings).
+- Net income is the starting line of the operating section of the cash flow statement.
+- Non-cash items (such as D&A) and changes in working capital (receivables, inventory, payables) adjust net income to arrive at operating cash flow.
+- CapEx and asset purchases on the cash flow statement increase long-term assets on the balance sheet; D&A reduces them.
+- Debt issuance or repayment and stock issuance or buybacks (financing activities) change liabilities and equity on the balance sheet.
+- The net change in cash on the cash flow statement equals the change in the cash line on the balance sheet between the two period-end dates (ending cash = beginning cash + net change in cash).
+- Check: the balance sheet must always balance (Assets = Liabilities + Equity). If the statements are linked correctly, it does.

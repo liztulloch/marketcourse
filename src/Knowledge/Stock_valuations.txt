@@ -1,0 +1,55 @@
+STOCK VALUATION: TERM DEFINITIONS
+
+Earnings per share (EPS)
+Net income allocated to each outstanding share of common stock. Formula: EPS = (Net Income - Preferred Dividends) / Weighted Average Shares Outstanding. Basic EPS uses shares outstanding; diluted EPS also counts shares that could be created by options, warrants, and convertible securities. Used as the denominator in P/E.
+
+Price-to-earnings ratio (P/E)
+Share price relative to earnings per share. Shows how much investors pay for each dollar of earnings. Formula: P/E = Share Price / EPS (or Market Cap / Net Income). Example: price $100, EPS $5 = P/E of 20. Not meaningful when earnings are negative or near zero. Typical levels vary by industry and growth rate.
+
+Forward vs. trailing P/E
+Trailing P/E uses EPS from the last 12 months of reported results (actual, backward-looking). Forward P/E uses estimated EPS for the next 12 months or next fiscal year, usually analyst consensus (forecast, forward-looking). Forward P/E depends on estimates, which can be wrong or revised. For a growing company, forward P/E is typically lower than trailing P/E.
+
+Price-to-sales ratio (P/S)
+Market value relative to revenue. Formula: P/S = Market Cap / Total Revenue (or Share Price / Revenue per Share). Useful for companies with no profits, since revenue is positive even when earnings are not. Ignores profitability and debt, so a low P/S does not guarantee a bargain.
+
+Price-to-book ratio (P/B)
+Market value relative to book value of equity. Formula: P/B = Share Price / Book Value per Share (or Market Cap / Shareholders' Equity). A P/B below 1 means the stock trades below the accounting value of its net assets. Most relevant for asset-heavy businesses such as banks and insurers. Less useful for companies whose value is mostly intangible (software, brands).
+
+PEG ratio
+P/E adjusted for earnings growth. Formula: PEG = P/E / Expected Annual EPS Growth Rate (in percent). Example: P/E of 30 with 15% expected growth = PEG of 2. A PEG near or below 1 is commonly read as fairly priced or cheap relative to growth. Depends on growth estimates, which are uncertain.
+
+Enterprise value (EV)
+Total value of a company's operations, including both equity and debt holders' claims. Formula: EV = Market Cap + Total Debt + Preferred Stock + Minority Interest - Cash and Cash Equivalents. Represents the approximate price to buy the whole business. Capital-structure neutral, so it is better than market cap for comparing companies with different debt levels.
+
+EV/EBITDA
+Enterprise value relative to EBITDA. Formula: EV/EBITDA = Enterprise Value / EBITDA. Ignores differences in debt, taxes, and depreciation policy, which makes it useful for comparing companies in the same industry. Lower values suggest a cheaper valuation relative to operating earnings. Less useful for businesses with heavy capital expenditures, since EBITDA excludes CapEx.
+
+EBITDA
+Earnings before interest, taxes, depreciation, and amortization. A proxy for operating profitability before financing, tax, and non-cash charges. Formula: EBITDA = Net Income + Interest + Taxes + Depreciation + Amortization (or Operating Income + D&A). Not a GAAP measure. It is not cash flow, because it ignores CapEx, working capital changes, and interest and tax payments.
+
+Free-cash-flow yield
+Free cash flow generated per dollar of market value. Formula: FCF Yield = Free Cash Flow / Market Cap (or FCF per Share / Share Price). Can also be calculated as FCF / Enterprise Value. A higher yield suggests more cash generation relative to price. It is the inverse of a price-to-free-cash-flow ratio.
+
+Dividend payout ratio
+Share of net income paid to shareholders as dividends. Formula: Payout Ratio = Dividends / Net Income (or Dividends per Share / EPS). A low ratio means the company retains most earnings for reinvestment; a ratio above 100% means it is paying out more than it earns, which may be unsustainable. Can also be computed using free cash flow in the denominator.
+
+Book value
+The accounting value of a company's equity: total assets minus total liabilities. Formula: Book Value = Total Assets - Total Liabilities (equals shareholders' equity). Book value per share = Book Value / Shares Outstanding. Reflects historical cost accounting, so it can differ greatly from market value, especially for companies with significant intangible assets.
+
+Intrinsic value
+An estimate of what a stock is fundamentally worth based on the business's expected cash flows, growth, and risk, independent of its current market price. It is an estimate, not a fact: different analysts using different assumptions arrive at different intrinsic values. Common methods include DCF and dividend discount models.
+
+Discounted cash flow (DCF)
+A valuation method that estimates a company's value as the present value of its future cash flows. Steps: (1) forecast free cash flows for a period (often 5-10 years); (2) estimate a terminal value for cash flows beyond the forecast; (3) discount all of them back to today using a discount rate (often WACC, the weighted average cost of capital). Formula: Value = sum of FCF_t / (1 + r)^t + Terminal Value / (1 + r)^N. Highly sensitive to the growth and discount rate assumptions. Dividing the resulting enterprise value after adjusting for net debt gives equity value; dividing by shares gives value per share.
+
+Relative valuation / comparable companies
+Valuing a stock by comparing its multiples (P/E, EV/EBITDA, P/S, etc.) to those of similar companies (peers in the same industry, with similar size and growth) or to its own historical average. If a stock trades at a lower multiple than comparable peers, it may be undervalued relative to them. Limitation: if the whole peer group is mispriced, the comparison inherits that error. Also called "comps."
+
+Growth stock vs. value stock
+Growth stock: a company expected to grow revenue and earnings faster than the market average. Typically has high valuation multiples (high P/E, P/S), reinvests profits rather than paying dividends, and carries more risk if growth slows.
+Value stock: a company trading at a low price relative to fundamentals (low P/E, low P/B), often mature and stable, and frequently paying dividends. Investors buy expecting the market to eventually price it higher.
+The categories are not mutually exclusive and the line between them is blurry; classification depends on the metrics used.
+
+What "overvalued" and "undervalued" mean
+Overvalued: the market price is higher than an estimate of the stock's intrinsic value (or higher than comparable benchmarks justify). Undervalued: the market price is lower than that estimate.
+Both are judgments relative to a chosen valuation model and its assumptions, not objective facts. They do not predict short-term price moves: an overvalued stock can keep rising and an undervalued stock can keep falling for long periods. Claims of over- or undervaluation are only as reliable as the inputs (growth, discount rate, peer choice) behind them.
