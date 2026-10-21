@@ -1,0 +1,1354 @@
+================================================================================
+STOCK MARKET EDUCATION KNOWLEDGE BASE
+For use by an educational chatbot (U.S. equity markets focus)
+Compiled: October 20, 2026
+================================================================================
+
+PURPOSE AND USE
+---------------
+This file contains verified, plain-English explanations of 16 core stock market
+topics. Each topic entry has:
+  - DEFINITION        a short, plain-English answer
+  - KEY POINTS        the facts the bot should be able to state confidently
+  - EXAMPLE           a worked example (examples are illustrative, not real data)
+  - COMMON MISCONCEPTIONS
+  - RELATED TERMS
+  - SAMPLE Q&A        short answers the bot can give to common questions
+  - SOURCES           where each fact was checked, and how reliable the source is
+
+BOT GUIDELINES (recommended)
+  1. This is education, not investment advice. The bot should never tell a
+     user to buy, sell, or hold a specific security.
+  2. Do not quote live prices, market caps, company counts, or trading volumes
+     from this file. Those change constantly; use a live data source.
+  3. Rules change. Items marked [TIME-SENSITIVE] should be re-verified
+     periodically (see the "Verification notes" section at the end).
+  4. When sources disagree, the bot should prefer the primary sources listed
+     (SEC / Investor.gov, FINRA, exchange rulebooks) and say "definitions vary"
+     where no official standard exists (for example, market-cap size buckets).
+
+SOURCE RELIABILITY KEY
+  [PRIMARY]    SEC, Investor.gov, FINRA, exchange rule filings, federal courts,
+               IRS/Treasury, Congressional Research Service
+  [SECONDARY]  Law-firm client alerts, university/think-tank models, large
+               brokerage educational pages, financial dictionaries
+  [GENERAL]    Widely accepted market knowledge explained here without a
+               single direct citation; the bot should present it as general
+               background
+
+TABLE OF CONTENTS
+  1.  What is a stock?
+  2.  Shares and ownership
+  3.  Stock exchanges
+  4.  NYSE vs. Nasdaq
+  5.  Tickers
+  6.  Market capitalization
+  7.  Share price
+  8.  Outstanding shares
+  9.  Volume
+  10. Bid and ask
+  11. Market orders vs. limit orders
+  12. IPOs
+  13. Stock splits
+  14. Dividends
+  15. Dividend yield
+  16. Buybacks
+  17. Quick glossary
+  18. Verification notes, conflicts found, and open items
+  19. Full source list
+
+
+================================================================================
+1. WHAT IS A STOCK?
+================================================================================
+DEFINITION
+A stock is a security that represents ownership (equity) in a corporation. When
+you own stock, you own a small piece of the company and have a claim on a
+proportional share of its assets and earnings.
+
+KEY POINTS
+- Stock = ownership, not a loan. Buying a company's stock does not mean lending
+  it money; you are buying a percentage of ownership. (Contrast with a bond,
+  which is a loan.)
+- Companies issue stock to raise money, for example to fund new projects or pay
+  off debt.
+- Stockholders may earn money two main ways: (a) the stock price rises and
+  they sell for more than they paid (a capital gain), and (b) the company pays
+  dividends. Neither is guaranteed.
+- Stock can lose value. An investor can lose some or all of the money invested.
+  Shares of a bankrupt company can end up essentially worthless.
+- Owning stock does NOT mean you own the corporation or run its day-to-day
+  operations. You own shares issued by the corporation.
+- Two broad types: common stock (what most individual investors buy; usually
+  carries voting rights) and preferred stock (usually has extra conditions and
+  often does not carry voting rights).
+- Public companies trade on stock exchanges; "the stock market" is the broad
+  term for the buying and selling of those shares.
+
+EXAMPLE (illustrative)
+A company has 1,000,000 shares outstanding and you own 1,000 of them. You own
+1,000 / 1,000,000 = 0.1% of the company.
+
+COMMON MISCONCEPTIONS
+- "Owning a share means I get a say in running the company." You usually get
+  voting rights on certain matters (such as electing directors), but a small
+  holder has very little influence.
+- "Stocks always go up over time." Individual stocks can fall to zero.
+
+RELATED TERMS: share, equity, security, common stock, preferred stock, bond
+
+SAMPLE Q&A
+Q: What is a stock?
+A: A stock is a unit of ownership in a company. If you own a stock, you own a
+   small slice of that business and have a claim on part of its assets and
+   earnings. Its value can go up or down, and you can lose money.
+Q: Is buying a stock the same as lending money to a company?
+A: No. A loan (like a bond) is a debt the company owes. Stock is ownership.
+
+SOURCES
+- Investor.gov definition of stock as ownership/equity and claim on a
+  proportional share of assets: relayed through a secondary page
+  (itrustcapital.com/learn/what-are-stocks-and-how-do-they-work). [SECONDARY]
+  Recommend confirming wording at investor.gov before publishing verbatim.
+- Stocks as part-ownership, not lending: Motley Fool "Stock vs. share"
+  (fool.com/investing/how-to-invest/stocks/stock-v-share). [SECONDARY]
+- Common vs. preferred, risk of losing some or all: howthemarketworks.com;
+  Benzinga; Chase educational article. [SECONDARY]
+
+
+================================================================================
+2. SHARES AND OWNERSHIP
+================================================================================
+DEFINITION
+A share is a single unit of ownership in a company. "Stock" is the general
+term for ownership in a company; "shares" tell you how many units you own.
+
+KEY POINTS
+- In everyday use, "stock" and "share" are often used interchangeably. The
+  practical difference: saying "I own Apple stock" does not tell you how much;
+  "I own 100 shares of Apple" does.
+- Your ownership percentage = shares you own / total shares outstanding.
+- Ownership is usually tracked electronically today. Physical stock
+  certificates were once the proof of ownership.
+- Shares held in a brokerage account are typically registered in "street name,"
+  meaning the brokerage holds them on your behalf.
+- Voting: most common shares carry voting rights, often one vote per share.
+  Shareholders can vote by proxy (without attending the meeting). Retail
+  participation in proxy voting is low.
+- Some companies have multiple share classes with different voting rights (for
+  example, Alphabet lists Class A shares as GOOGL and a different class as
+  GOOG on Nasdaq).
+- Each share entitles the holder to a proportional claim on earnings; some of
+  earnings may be paid as dividends or reinvested in the business.
+- "Stake" is a general word for the amount of ownership someone holds.
+
+EXAMPLE (illustrative)
+A company has 2,000 shares outstanding. You buy 100. You own 5% of the company
+(100 / 2,000).
+
+COMMON MISCONCEPTIONS
+- "A $10 stock is cheaper than a $500 stock." Price per share alone does not
+  tell you how big or how "expensive" the company is. See Market
+  Capitalization (topic 6) and Share Price (topic 7).
+
+RELATED TERMS: shareholder, stockholder, street name, proxy voting, share
+class, fractional shares
+
+SAMPLE Q&A
+Q: What's the difference between a stock and a share?
+A: Stock is the general idea of owning part of a company. A share is one unit of
+   that ownership. Saying how many shares you own tells you how big your stake is.
+Q: Does owning one share make me an owner of the company?
+A: Technically yes, you own a very small proportional piece, but a single
+   share gives you almost no influence.
+
+SOURCES
+- Stock vs. share, stake: Motley Fool (fool.com/investing/how-to-invest/stocks/
+  stock-v-share). [SECONDARY]
+- Share counts and percentage ownership examples: howthemarketworks.com;
+  Motley Fool "Foolish Fundamentals". [SECONDARY]
+- Street name, electronic records, proxy voting: itrustcapital.com (cites
+  Investor.gov proxy voting guide). [SECONDARY]
+- Share classes example (GOOGL/GOOG): Corporate Finance Institute stock-symbol
+  article. [SECONDARY]
+
+
+================================================================================
+3. STOCK EXCHANGES
+================================================================================
+DEFINITION
+A stock exchange is a regulated marketplace where buyers and sellers trade
+shares of publicly listed companies.
+
+KEY POINTS
+- Exchanges are the primary platform for public trading of stocks. The two
+  largest U.S. exchanges are the New York Stock Exchange (NYSE) and Nasdaq.
+- A company must meet an exchange's listing requirements to have its stock
+  listed there. (Requirements differ by exchange and listing tier.)
+- Regular U.S. trading hours for NYSE and Nasdaq are 9:30 a.m. to 4:00 p.m.
+  Eastern Time, Monday through Friday, excluding exchange holidays.
+- Many brokers offer extended-hours sessions (commonly cited as 4:00 a.m. to
+  9:30 a.m. pre-market and 4:00 p.m. to 8:00 p.m. after-hours ET; exact access
+  varies by broker). Per the SEC, extended hours generally have lower volume
+  and wider bid-ask spreads, and many brokers accept only limit orders then.
+- On certain days (for example, the day after Thanksgiving and Christmas Eve)
+  exchanges close early at 1:00 p.m. ET. Always check the exchange's published
+  holiday calendar. [TIME-SENSITIVE]
+- Settlement: since May 28, 2024 the standard U.S. settlement cycle for most
+  stock trades is T+1 (one business day after the trade date), down from T+2.
+- "Stock market" and "stock exchange" are sometimes used interchangeably, but
+  the stock market is the broader concept.
+- Trades today are overwhelmingly electronic.
+
+EXAMPLE (illustrative)
+You place an order at 10:15 a.m. Tuesday. It executes on an exchange. Under T+1,
+the trade settles on Wednesday.
+
+COMMON MISCONCEPTIONS
+- "The exchange sets the stock's price." Prices come from buyers' and sellers'
+  orders interacting on the market. The exchange provides the venue and rules.
+- "Everything trades 9:30-4:00 only." Extended-hours trading exists, but with
+  higher risk.
+
+RELATED TERMS: listing, NYSE, Nasdaq, regular session, extended hours,
+settlement, T+1
+
+SAMPLE Q&A
+Q: What is a stock exchange?
+A: A regulated marketplace where shares of public companies are bought and
+   sold. In the U.S., the big two are NYSE and Nasdaq.
+Q: When is the U.S. stock market open?
+A: Regular hours are 9:30 a.m. to 4:00 p.m. Eastern, Monday to Friday, except
+   market holidays. Some brokers offer extended hours, with extra risks.
+
+SOURCES
+- T+1 settlement effective May 28, 2024: SEC Investor Bulletin "New 'T+1'
+  Settlement Cycle - What Investors Need To Know"
+  (investor.gov/newT1settlement-cycle). [PRIMARY]
+- Extended-hours risks (wider spreads, limit-order-only): SEC Investor Bulletin
+  on after-hours trading (investor.gov/additional-resources/news-alerts/
+  alerts-bulletins/investor-bulletin-after-hours-trading), as cited by a
+  secondary summary (getbelong.com). [PRIMARY, via secondary relay]
+- Regular hours 9:30-4:00 ET: multiple broker/education sites and NYSE-based
+  summaries; consistent across all sources. [SECONDARY, consistent]
+- Early close at 1:00 p.m. ET: NYSE holiday schedule summaries (Wealthsimple,
+  StockAlarm). NOTE: one aggregator (TipRanks) listed 12:30 p.m. for early
+  closes, which conflicts with the NYSE-based sources. Use 1:00 p.m. for stocks
+  and verify on the exchange calendar. [SECONDARY, conflict noted]
+
+
+================================================================================
+4. NYSE VS. NASDAQ
+================================================================================
+DEFINITION
+NYSE (New York Stock Exchange) and Nasdaq are the two main U.S. stock exchanges.
+They differ in history and traditional market structure: NYSE as an auction
+market with designated market makers, Nasdaq as an electronic dealer market
+with competing market makers. Today both are highly automated.
+
+KEY POINTS
+- NYSE: historically a floor-based auction market in Lower Manhattan. Human
+  "specialists" were later replaced by "Designated Market Makers" (DMMs), who
+  help maintain orderly markets in assigned stocks. The NYSE is generally
+  described as a hybrid auction market today.
+- Nasdaq: began trading in 1971 as a fully electronic quotation system. It has
+  no physical trading floor. Multiple competing market makers post bids and
+  offers. The name originally stood for National Association of Securities
+  Dealers Automated Quotations.
+- Both exchanges now run highly automated matching engines, and continuous
+  trading is dominated by algorithms. Designated/registered market makers still
+  matter most around opens, closes, and stress periods.
+- Reputation: NYSE is often associated with large, long-established "blue
+  chip" companies; Nasdaq is often associated with technology and growth
+  companies. This is a tendency, not a rule: both list companies of many sizes
+  and industries (the NYSE-vs-Nasdaq label tells you little about a company's
+  quality).
+- Indices commonly linked: Dow Jones Industrial Average and NYSE Composite
+  (NYSE-listed names), Nasdaq Composite and Nasdaq-100 (Nasdaq-listed names).
+  Note the Dow includes both NYSE- and Nasdaq-listed stocks in practice;
+  treat the association as loose, not exact. [GENERAL]
+- Liquidity and spreads depend more on how actively an individual stock trades
+  than on which exchange lists it.
+- Listing requirements and fees differ between the exchanges and between
+  tiers (for example, Nasdaq has Global Select, Global, and Capital Market
+  tiers).
+
+EXAMPLE (illustrative)
+A newly public software company may choose Nasdaq; an old industrial company
+may be on NYSE. Either way, an investor buys through a broker, and the order
+is routed electronically.
+
+COMMON MISCONCEPTIONS
+- "NYSE is all humans on a floor; Nasdaq is all computers." Both are largely
+  electronic now; the labels describe origins and market-maker roles.
+- "Nasdaq stocks are riskier than NYSE stocks." Risk depends on the company,
+  not the exchange.
+- "Company counts and total market values quoted online are fixed." They change
+  often; the bot should not state them without a live source.
+
+RELATED TERMS: auction market, dealer market, designated market maker, market
+maker, listing requirements, Dow, S&P 500, Nasdaq Composite
+
+SAMPLE Q&A
+Q: What's the main difference between NYSE and Nasdaq?
+A: Traditionally, NYSE is an auction market with designated market makers,
+   while Nasdaq is an electronic dealer market where competing market makers
+   quote prices. Today both are heavily electronic, and as an investor you
+   usually trade the same way on either.
+Q: Is one exchange better than the other?
+A: No. They are different venues. A stock's quality doesn't depend on its
+   exchange.
+
+SOURCES
+- Auction (NYSE) vs. dealer (Nasdaq), specialists/market makers, DMMs: Groww;
+  Trade-Ideas Learning Center; DailyFX; Firstrade blog. [SECONDARY, consistent]
+- Nasdaq began 1971, fully electronic: Groww; shares.io. [SECONDARY]
+- Historical dealer-market structure and competing dealers: SEC Historical
+  Society archive, Lexecon paper "Nasdaq" (sechistorical.org). [PRIMARY-archive]
+- Both now automated, with DMMs/market makers still central at open/close:
+  Trade-Ideas. [SECONDARY]
+- Excluded on purpose: specific listed-company counts and total market cap
+  figures (Musaffa Academy and others) because they are dated and vary by
+  source.
+
+
+================================================================================
+5. TICKERS
+================================================================================
+DEFINITION
+A ticker symbol (stock symbol) is a short code of letters (sometimes with
+numbers or suffixes) that uniquely identifies a security on an exchange.
+
+KEY POINTS
+- Origin: the term comes from the "ticker tape," which reported each trade's
+  ticker symbol, volume, and price.
+- Each root symbol is assigned to one company at a time; the combination is
+  unique.
+- Historical convention (no longer strict): NYSE-listed companies used one to
+  three letters; Nasdaq-listed companies used four or five. Nasdaq announced in
+  November 2005 it would also list companies with one-, two-, or three-character
+  symbols, and SEC rule filings in 2007 addressed this. Today, one- to
+  four-character root symbols can appear on either exchange, so letter count
+  cannot reliably tell you the listing exchange.
+- Modifiers: a fifth character on Nasdaq-listed securities, or a dot plus
+  letter(s) on NYSE-listed securities, adds information (for example, about a
+  share class or type of security, such as preferred stock).
+- Companies with multiple share classes may have separate tickers per class
+  (for example, GOOGL and GOOG for Alphabet's two Nasdaq-listed share classes).
+- Short tickers are limited in supply. There are only 26 one-letter, 676
+  two-letter, and 17,576 three-letter combinations (26, 26^2, 26^3).
+  Short tickers are often treasured by older companies (for example, F for Ford
+  and KO for Coca-Cola).
+- Tickers can change when a company renames itself, merges, or moves exchanges.
+- Tickers on different exchanges worldwide follow different formats (for
+  example, some Asian markets use numeric codes).
+
+EXAMPLE
+AAPL = Apple (Nasdaq). F = Ford (NYSE). Always confirm the ticker belongs to the
+company you intend, since similar tickers can belong to unrelated companies.
+
+COMMON MISCONCEPTIONS
+- "Four letters means Nasdaq, three means NYSE." That was a convention, not a
+  current rule.
+- "A ticker is the company's name." It is only an identifier and may not
+  resemble the name.
+
+RELATED TERMS: stock symbol, root symbol, share class, ticker tape, listing
+
+SAMPLE Q&A
+Q: What is a ticker symbol?
+A: A short code that identifies a stock on an exchange, like AAPL for Apple.
+Q: Can I tell the exchange from the ticker's length?
+A: Not reliably anymore. It used to work (NYSE 1-3 letters, Nasdaq 4-5), but
+   that convention has loosened.
+
+SOURCES
+- Ticker tape origin; historical 1-3 vs 4-5 character conventions; Nasdaq's
+  November 2005 announcement; 2007 SEC filing: SEC release 34-56037
+  (sec.gov/files/rules/sro/nms/2007/34-56037.pdf). [PRIMARY]
+- Count of one-, two-, three-character combinations (26 / 676 / 17,576)
+  attributed to the SEC and retention of short tickers (Ford F, Coca-Cola KO):
+  Motley Fool "The SEC Approves New ABCs" (2007). Arithmetic independently
+  checked. [SECONDARY]
+- Modifiers (fifth character on Nasdaq, dot-suffix on NYSE), GOOGL/GOOG:
+  Corporate Finance Institute; Motley Fool "Stock Ticker" terms page.
+  [SECONDARY]
+- Robinhood explainer says one to four characters on either exchange.
+  [SECONDARY] (Its sample ticker "APPL" for Apple is a typo; the real ticker is
+  AAPL. Not used here.)
+- Conflict noted: sources differ on the maximum NYSE length (three vs. four)
+  and Nasdaq (four vs. five). The file therefore describes this as a loosened
+  convention rather than a fixed rule.
+
+
+================================================================================
+6. MARKET CAPITALIZATION
+================================================================================
+DEFINITION
+Market capitalization (market cap) is the total market value of a public
+company's outstanding common shares: share price multiplied by shares
+outstanding.
+
+KEY POINTS
+- Formula: Market cap = price per share x number of shares outstanding.
+- It measures the market's valuation of the company's equity, not its revenue,
+  profit, or the amount of cash it holds.
+- It changes whenever the share price changes (and when shares outstanding
+  change).
+- Size buckets are conventions, not official regulatory definitions, and vary
+  by index provider. A commonly cited FINRA-based breakdown:
+    Large-cap:  more than about $10 billion
+    Mid-cap:    about $2 billion to $10 billion
+    Small-cap:  about $250 million (some sources use $300 million) to $2 billion
+    Micro-cap:  below about $250 million (or $300 million)
+- Free-float market cap counts only shares available to the public to trade
+  (outstanding shares minus locked-in or closely held shares), and is usually
+  smaller than total market cap. Many indexes weight by float-adjusted market
+  cap.
+- Not the same as "price": a high-priced stock can have a small market cap and
+  vice versa.
+- Different share classes: for companies with multiple classes, calculations
+  must be specific about whether all classes are included.
+
+EXAMPLE (illustrative)
+A company has 4 million common shares outstanding at $20 each:
+  4,000,000 x $20 = $80,000,000 market cap.
+If 1 million of those shares are held by insiders and unavailable to trade, the
+float-adjusted market cap is 3,000,000 x $20 = $60,000,000.
+
+COMMON MISCONCEPTIONS
+- "Market cap is how much money the company has." No; it is the market value of
+  its shares. A company's cash, debt, revenue, and profits are separate.
+- "Market cap is what you'd need to pay to buy the company." Acquisitions
+  typically require a premium and involve debt/cash considerations. (GENERAL)
+- "Large-cap means safe." Size bucket does not remove risk.
+
+RELATED TERMS: shares outstanding, float, free-float market cap, large-cap,
+mid-cap, small-cap, micro-cap, index weighting
+
+SAMPLE Q&A
+Q: What is market cap?
+A: It's the stock market's value of the whole company: share price times the
+   number of shares outstanding.
+Q: What counts as a large-cap stock?
+A: A common convention is above about $10 billion, but there's no official
+   legal cutoff; different providers use slightly different lines.
+
+SOURCES
+- Definition, formula, example ($80M from 4M shares at $20), float vs. free-float
+  market cap, FINRA's "typical (not official)" categorization: Wikipedia
+  "Market capitalization," citing FINRA investor education. [SECONDARY]
+- FINRA breakpoints (>$10B large; $2-10B mid; $250M-$2B small; <$250M micro):
+  AAII dictionary quoting FINRA.org. [SECONDARY] Other sources use $300M as the
+  small-cap floor; the file reports both and notes "no official definition."
+- "No official regulatory definitions": CertFuel glossary. [SECONDARY]
+- Float-adjusted weighting in indexes: Russell index methodology in an SEC-filed
+  prospectus supplement (sec.gov Archives, Citigroup 424B2). [PRIMARY-filing]
+
+
+================================================================================
+7. SHARE PRICE
+================================================================================
+DEFINITION
+The share price is the price at which one share of a stock can currently be
+bought or sold on the market.
+
+KEY POINTS
+- Stocks are priced per share. The "price" you see on a quote is generally the
+  last trade price.
+- The last-traded price is not necessarily the price at which your market order
+  will execute. Market buy orders generally fill at or near the ask; market
+  sell orders at or near the bid (see topics 10-11).
+- Prices change continuously during trading because they come from buyers' and
+  sellers' orders: more demand relative to supply pushes prices up; more supply
+  relative to demand pushes them down. [GENERAL]
+- A company's total value is not its share price. Compare market capitalization
+  (topic 6), not price alone, to compare company size.
+- Splits and reverse splits change the price per share without changing the
+  company's total value (topic 13).
+- On an ex-dividend date, the share price may drop by about the dividend amount
+  (topic 14).
+- Opening, closing, high, low: quotes often show the day's open, high, low, and
+  previous close.
+- Prices outside regular hours can be more volatile because of lower volume
+  and wider spreads.
+
+EXAMPLE (illustrative)
+Company A: $200/share x 10 million shares = $2 billion market cap.
+Company B: $20/share x 500 million shares = $10 billion market cap.
+B has the lower share price but is the larger company.
+
+COMMON MISCONCEPTIONS
+- "A low share price means the stock is cheap/undervalued." Price per share by
+  itself says nothing about value.
+- "A stock that fell to $1 can't fall further." It can fall to zero.
+
+RELATED TERMS: last price, bid, ask, quote, closing price, volatility
+
+SAMPLE Q&A
+Q: Why does a stock's price change?
+A: Prices move as buyers and sellers submit orders. News, earnings, and
+   expectations affect how much people are willing to pay.
+Q: Is a $10 stock cheaper than a $300 stock?
+A: Not necessarily. Compare the companies' total values (market cap) and
+   fundamentals, not just the per-share price.
+
+SOURCES
+- "Last-traded price is not necessarily the price at which a market order will
+  execute": SEC Investor.gov "Types of Orders"
+  (investor.gov/introduction-investing/investing-basics/how-stock-markets-work/
+  types-orders). [PRIMARY]
+- Stocks priced per share: Motley Fool "Back to the Basics: What Is a Stock?"
+  [SECONDARY]
+- Splits do not change total value: FINRA "Stock Splits" and SmartAsset.
+  [PRIMARY + SECONDARY]
+- Supply/demand explanation of price formation: general market principle.
+  [GENERAL]
+
+
+================================================================================
+8. OUTSTANDING SHARES
+================================================================================
+DEFINITION
+Outstanding shares are all the shares a company has issued and sold that are
+held by investors (including insiders), excluding shares the company holds
+itself.
+
+KEY POINTS
+- Outstanding shares drive market cap (price x outstanding shares) and
+  per-share metrics like earnings per share (EPS).
+- The number can change: issuing new shares raises it; buybacks lower it
+  (topic 16); splits multiply it (topic 13).
+- Related counts (do not confuse):
+    Authorized shares  the maximum number the company's charter allows it to
+                       issue
+    Issued shares      shares the company has actually issued
+    Outstanding shares issued shares held by investors (excludes shares the
+                       company holds in treasury)
+    Float              the subset of outstanding shares actually available to
+                       trade publicly (excludes locked-in or closely held
+                       shares, such as large insider stakes)
+- Float is often expressed as a number or a percent of outstanding shares.
+- Small floats can mean sharper price swings and are more prone to short
+  squeezes.
+- Public companies report outstanding shares in filings on SEC EDGAR.
+- A stock split changes outstanding shares but not the company's total market
+  value.
+
+EXAMPLE (illustrative)
+A company has 10 million shares outstanding. Its CEO holds 2 million. Float =
+8 million shares, or 80% of outstanding.
+Another illustration: 10 million outstanding with 3 million locked in gives a
+float of 7 million.
+
+COMMON MISCONCEPTIONS
+- "Outstanding shares and float are the same." Float is smaller if some shares
+  are locked up or closely held.
+- "More shares outstanding means a more valuable company." Not by itself;
+  value depends on price times shares, and on the business.
+
+RELATED TERMS: authorized shares, issued shares, treasury shares, float,
+earnings per share, dilution
+
+SAMPLE Q&A
+Q: What are outstanding shares?
+A: All of a company's shares held by investors, including insiders, but not
+   shares the company keeps in its own treasury.
+Q: What's the difference between shares outstanding and float?
+A: Float counts only shares available for public trading. Shares held by
+   insiders or locked up are outstanding but not part of the float.
+Q: Where can I find a company's shares outstanding?
+A: In its filings on the SEC's EDGAR database (for example, 10-Q or 10-K) or
+   on financial data sites.
+
+SOURCES
+- Outstanding shares definition, link to market cap and EPS, float example
+  (10M outstanding, 2M held by CEO = 8M float = 80%), EDGAR, effect of splits
+  and new issuance: Bankrate "Outstanding shares." [SECONDARY]
+- Authorized / outstanding / floating distinctions: EDM Council FIBO meeting
+  notes (2019). [SECONDARY]
+- Float = outstanding minus locked-in (10M - 3M = 7M): Wikipedia "Public float."
+  [SECONDARY]
+- Small floats and short-squeeze volatility: Motley Fool "These Stocks Could
+  Sink You." [SECONDARY]
+
+
+================================================================================
+9. VOLUME
+================================================================================
+DEFINITION
+Trading volume is the number of shares of a security that are traded during a
+given period, usually one trading day.
+
+KEY POINTS
+- It counts shares that change hands, not the number of buyers or the dollar
+  amount (though "dollar volume" is a separate measure).
+- Each share traded is counted once per transaction, no matter how many times
+  the same shares are re-traded. Example: if 1,000 shares are bought in the
+  morning and the buyer sells 500 later, daily volume is 1,500.
+- Higher volume generally means more liquidity: it is typically easier to buy
+  or sell without moving the price much. Lower volume generally means wider
+  bid-ask spreads and potentially larger price moves from small orders.
+- Volume is often compared with the stock's own average volume. A single day's
+  volume says little in isolation. Unusually high volume can accompany news or
+  large investors trading, but it does not by itself predict direction.
+- Volume is usually much lower during pre-market and after-hours sessions.
+- Exchanges and data providers publish volume for individual stocks and for
+  entire markets.
+
+EXAMPLE (illustrative)
+A stock normally trades about 5 million shares a day. One day it trades 15
+million shares, three times its usual volume. That signals unusually high
+interest (the cause could be news or earnings), but the volume figure alone
+doesn't say whether the price will rise or fall.
+
+COMMON MISCONCEPTIONS
+- "High volume means the price will go up." High volume just means a lot of
+  trading occurred; it can occur during rises or falls.
+- "Volume counts buyers and sellers separately (double)." A trade between one
+  buyer and one seller of 100 shares counts as 100 shares of volume.
+
+RELATED TERMS: liquidity, average daily volume, dollar volume, turnover, bid-ask
+spread
+
+SAMPLE Q&A
+Q: What does trading volume mean?
+A: It's how many shares were traded in a period, usually a day. Higher volume
+   usually means a stock is easier to trade.
+Q: Does high volume mean a stock is a good buy?
+A: No. Volume shows activity, not whether the price will rise or fall.
+
+SOURCES
+- Definition, liquidity, comparisons to average, extended-hours lower volume:
+  Techopedia; Corporate Finance Institute "Volume of Trade"; ShareIndia
+  (1,000 + 500 = 1,500 example). [SECONDARY, consistent across sources]
+- Extended hours have wider spreads and lower liquidity: SEC Investor
+  Bulletin on after-hours trading (as cited in secondary summary). [PRIMARY,
+  relayed]
+- A stricter primary-source definition of volume (SEC/FINRA glossary) was not
+  retrieved during research; the definition is uncontroversial and consistent
+  across all sources checked.
+
+
+================================================================================
+10. BID AND ASK
+================================================================================
+DEFINITION
+The bid is the highest price a buyer is currently willing to pay for a stock;
+the ask (also called the offer) is the lowest price a seller is currently
+willing to accept. The difference between them is the spread.
+
+KEY POINTS
+- The bid price will almost always be lower than the ask price.
+- If you buy using a market order, you generally pay the ask; if you sell using
+  a market order, you generally receive the bid.
+- Bid-ask spread = ask - bid. It is a real cost of trading: you effectively buy
+  slightly above and sell slightly below the "middle."
+- Narrow spreads usually signal high liquidity (heavily traded stocks often have
+  spreads of a penny or a few cents). Wide spreads signal lower liquidity,
+  lower activity, or greater uncertainty, and are common in extended hours.
+- Quotes often also show size (number of shares available at the bid and ask).
+- Market makers quote both a bid and an ask and earn the spread as
+  compensation for providing liquidity.
+- Because of the spread, the "last price" on a quote may sit between the bid
+  and ask.
+
+EXAMPLE (illustrative)
+Bid $50.00, ask $50.05. Spread = $0.05.
+- A market buy would likely fill near $50.05.
+- A market sell would likely fill near $50.00.
+
+COMMON MISCONCEPTIONS
+- "Bid is what I pay." No, bid is what buyers offer to pay you if you sell. As a
+  buyer you pay the ask.
+- "The spread doesn't matter for long-term investors." It's a cost every time you
+  trade, small for liquid stocks but larger for thinly traded ones.
+
+RELATED TERMS: offer, spread, market maker, liquidity, NBBO (national best bid
+and offer), limit order
+
+SAMPLE Q&A
+Q: What's the difference between bid and ask?
+A: Bid is the highest price a buyer will pay right now; ask is the lowest price
+   a seller will accept. The gap is the spread.
+Q: If I buy at market, do I pay the bid or the ask?
+A: Generally the ask. If you sell at market, you generally get the bid.
+
+SOURCES
+- Bid and ask definitions; bid almost always lower than ask; spread: SEC
+  Investor.gov glossary (investor.gov/introduction-investing/investing-basics/
+  glossary/bid-price and /ask-price). [PRIMARY]
+- Market buys fill near ask, sells near bid: SEC Investor.gov "Types of
+  Orders" and SEC Investor Bulletin "Understanding Order Types." [PRIMARY]
+- Narrow spread = higher liquidity; market makers earn the spread; $50.00 /
+  $50.05 example: FinFeed glossary; forex.com glossary. [SECONDARY]
+
+
+================================================================================
+11. MARKET ORDERS VS. LIMIT ORDERS
+================================================================================
+DEFINITION
+A market order buys or sells immediately at the best available current price.
+A limit order buys or sells only at a specific price or better.
+
+KEY POINTS
+- Market order: guarantees execution (if there is a market) but does NOT
+  guarantee the price. It generally executes at or near the current ask (for a
+  buy) or bid (for a sell). The last-traded price is not necessarily the price
+  you will get.
+- In a fast-moving market, or for a large order, a market order can execute at
+  several different prices, and may fill at a worse price than expected.
+- Limit order: guarantees the price (or better) but does NOT guarantee
+  execution. A buy limit order can only execute at the limit price or lower; a
+  sell limit order only at the limit price or higher. It may never fill if the
+  market doesn't reach your price.
+- A limit order priced at or better than the current market can fill
+  immediately (a "marketable limit order").
+- Other common order types:
+    Stop order (stop-loss): becomes a market order once the stop price is
+      reached. In fast markets the execution price can differ significantly
+      from the stop price.
+    Stop-limit order: combines a stop and a limit. Once the stop price is
+      reached it becomes a limit order, which gives price control but may not
+      execute.
+- Time-in-force: orders can be "day" orders or "good-till-canceled" (GTC);
+  brokers typically limit how long a GTC order can remain open.
+- Extended hours: many brokers accept only limit orders outside regular hours.
+- Quick rule of thumb: market orders prioritize certainty of execution; limit
+  orders prioritize certainty of price.
+
+EXAMPLE (illustrative)
+Stock is quoted bid $9.98 / ask $10.00 and you want to buy.
+- Market buy: likely fills near $10.00 right away (price could be higher if the
+  market moves).
+- Buy limit at $9.90: fills only if the stock trades at $9.90 or lower; may
+  not fill at all.
+(SEC example: a limit order to buy ABC at no more than $10 will only execute if
+the price is $10 or lower.)
+
+COMMON MISCONCEPTIONS
+- "A market order gets me the last price I saw." Not necessarily.
+- "A limit order is always safer." It protects price but can miss the trade.
+- "A stop order guarantees my exit price." No: once triggered it becomes a
+  market order and may fill at a worse price.
+
+RELATED TERMS: stop order, stop-limit, GTC, day order, marketable limit order,
+slippage, execution
+
+SAMPLE Q&A
+Q: When should I use a limit order instead of a market order?
+A: Use a limit order when the price matters more than getting filled
+   immediately, such as with thinly traded stocks, volatile moments, or
+   extended hours. A market order is for when getting in or out right away
+   matters more than the exact price. (This is education, not advice.)
+Q: What's the main risk of a market order?
+A: You don't control the price. In fast or thin markets you can pay more (or
+   receive less) than you expected.
+
+SOURCES
+- Market, limit, stop order definitions, buy/sell limit rule, ABC $10 example,
+  stop becomes market order, buy/sell stop: SEC Investor.gov "Types of Orders"
+  (investor.gov/introduction-investing/investing-basics/how-stock-markets-
+  work/types-orders). [PRIMARY]
+- Market order examples (fills at higher price when other orders go first),
+  stop-limit order, GTC time limits: SEC Investor Bulletin "Understanding Order
+  Types" (investor.gov/additional-resources/news-alerts/alerts-bulletins/
+  investor-bulletin-understanding-order-types). [PRIMARY]
+- Marketable limit order described using FINRA's definition: LegalClarity
+  summary. [SECONDARY]
+- Extended-hours limit-order-only: SEC after-hours bulletin via getbelong.com.
+  [PRIMARY, relayed]
+
+
+================================================================================
+12. IPOs (INITIAL PUBLIC OFFERINGS)
+================================================================================
+DEFINITION
+An IPO is generally when a company first sells its shares to the general
+public, becoming a publicly traded company.
+
+KEY POINTS
+- To register an offering, a company files a registration statement with the
+  SEC, typically using Form S-1.
+- The prospectus is the offering document describing the company, the IPO terms,
+  and other information investors may use to decide whether to invest. It
+  includes sections such as "Use of Proceeds," which says what the company
+  plans to do with the money it raises.
+- After the IPO, the new public company must file periodic reports with the
+  SEC, including quarterly and annual financial reports (available on EDGAR).
+- Two ways for the public to invest in a new public company:
+    1) Buy shares in the IPO itself at the offering price. This is less common
+       for individual investors; for many popular IPOs it is hard to get shares.
+    2) Buy shares on the public market after they begin trading, at whatever
+       the market price is. This is the more common route for individuals.
+- A newly public company typically has no trading history, so there is less
+  public information about how its stock trades. The price in the days after
+  the IPO can differ greatly from the offering price.
+- Lockup agreements: arrangements that restrict certain insiders from selling
+  shares for a period after the IPO. (SEC Investor.gov lists lockups as a
+  topic; this file gives only the general idea.) [GENERAL]
+- Companies go public to raise money for growth and to give early investors
+  and employees a market for their shares. [GENERAL]
+- IPOs can be very risky and are not appropriate for every investor (the SEC
+  bulletin says so).
+
+EXAMPLE (illustrative)
+A private company sells 10 million new shares to the public at $20 in its IPO,
+raising $200 million (before costs). The next day, its stock begins trading on
+an exchange. An ordinary investor who didn't receive IPO shares can still buy
+on the exchange, but at the market price, which could be above or below $20.
+
+COMMON MISCONCEPTIONS
+- "IPO shares are always a bargain." Not necessarily. Many IPOs trade below
+  their offering price, and the price can swing widely.
+- "Anyone can buy at the IPO price." Allocation is limited, and brokers have
+  eligibility rules.
+
+RELATED TERMS: Form S-1, prospectus, offering price, underwriter, lockup,
+secondary offering, direct listing, going public
+
+SAMPLE Q&A
+Q: What is an IPO?
+A: It's when a private company first sells shares to the public and gets listed
+   on an exchange.
+Q: Can I buy shares at the IPO price?
+A: Sometimes, if your broker offers access and you're eligible, but it's hard
+   for popular IPOs. Most individuals buy after trading starts, at market
+   prices.
+Q: Where can I read about a company before its IPO?
+A: In its prospectus, filed with the SEC and available on EDGAR.
+
+SOURCES
+- IPO definition, Form S-1, prospectus, two ways to invest, use of proceeds,
+  periodic reports, no prior trading history: SEC Investor.gov "Updated
+  Investor Bulletin: Investing in an IPO"
+  (investor.gov/additional-resources/news-alerts/alerts-bulletins/investor-
+  bulletin-investing-ipo) and Investor.gov glossary "Initial Public Offering
+  (IPO)." [PRIMARY]
+- Reasons companies IPO and lockup concept in general terms: general market
+  knowledge. [GENERAL]
+
+
+================================================================================
+13. STOCK SPLITS
+================================================================================
+DEFINITION
+A stock split changes the number of a company's shares and the price per share
+by the same ratio, without changing the total value of the company or of an
+investor's holding.
+
+KEY POINTS
+- Forward split (for example, 2-for-1): each share becomes more than one share
+  and the price per share falls proportionally. Companies often split to lower
+  a high share price and make shares feel more affordable or accessible.
+- Reverse split (for example, 1-for-10): multiple shares are combined into one
+  and the price per share rises proportionally. It is often used by small
+  companies whose price is very low, or to help meet an exchange's minimum price
+  rules and avoid delisting.
+- A split does not change a company's value, your ownership percentage, or the
+  total value of your position (apart from market movements).
+- Dividends per share are adjusted proportionally.
+- Reverse splits deserve extra caution: FINRA notes they more often involve
+  small companies, frequently in the over-the-counter (OTC) market, and
+  investors may lose money from price fluctuations after a reverse split.
+  Fractional shares: in some reverse splits, small shareholders may be
+  "cashed out" for cash in lieu of partial shares.
+- Who approves: state corporate law and the company's articles and bylaws
+  generally govern a company's ability to split and whether shareholders must
+  approve. SEC-reporting companies may announce splits in Forms 8-K, 10-Q, or
+  10-K. FINRA does not approve reverse splits but processes them as part of its
+  corporate-actions work in the OTC market.
+- Stock dividends are a related but different event: a company pays additional
+  shares as a dividend, which also changes share counts and price without
+  changing total value.
+
+EXAMPLES (illustrative)
+Forward 2-for-1: 100 shares at $20 = $2,000 becomes 200 shares at $10 = $2,000.
+Forward 3-for-2: 100 shares at $30 = $3,000 becomes 150 shares at $20 = $3,000.
+Reverse 1-for-10: 10,000 shares become 1,000 shares (SEC example).
+FINRA example: a 200:1 reverse split turns 5,000 shares at $0.10 (= $500) into
+25 shares at $20 (= $500).
+
+COMMON MISCONCEPTIONS
+- "A split makes me richer." A forward split gives more shares at a lower price;
+  total value is unchanged at the moment of the split.
+- "A reverse split is always bad news." Not automatically, but it is often tied
+  to companies in difficulty, so investors should read the company's reasons.
+
+RELATED TERMS: forward split, reverse split, stock dividend, delisting,
+fractional share, corporate action
+
+SAMPLE Q&A
+Q: Does a stock split change what my investment is worth?
+A: Not at the moment of the split. You hold more shares at a proportionally
+   lower price, so the total value is the same.
+Q: Why would a company do a reverse split?
+A: To raise a very low share price, often to meet exchange minimum-price rules
+   or to look more attractive to investors. Reverse splits deserve extra caution.
+
+SOURCES
+- Reverse split definition, 1-for-10 example, cash-in-lieu, state law governs,
+  filings (8-K, 10-Q, 10-K, Schedule 14A/13E-3), EDGAR: SEC Investor.gov
+  glossary "Reverse Stock Splits"
+  (investor.gov/introduction-investing/investing-basics/glossary/reverse-stock-
+  splits). [PRIMARY]
+- Forward and reverse splits, 200:1 example, mostly small/OTC companies, FINRA
+  does not approve reverse splits, split does nothing to change company value:
+  FINRA "Stock Splits"
+  (finra.org/investors/learn-to-invest/types-investments/stocks/stock-splits).
+  [PRIMARY]
+- 2-for-1 example, dividends adjusted, reverse splits and delisting: SmartAsset
+  "What Is a Stock Split." [SECONDARY]
+- 3-for-2 example computed for this file. Arithmetic checked.
+
+
+================================================================================
+14. DIVIDENDS
+================================================================================
+DEFINITION
+A dividend is a payment a company makes to its shareholders, usually from its
+profits, typically in cash (though sometimes in additional shares).
+
+KEY POINTS
+- Companies may pay dividends, but they are not required to. Dividends are not
+  guaranteed, and a company can reduce, suspend, or eliminate them.
+- Many larger, more established companies pay dividends, but not all do;
+  growth companies often reinvest profits into the business instead.
+- Most dividend-paying U.S. companies pay quarterly, though schedules vary.
+- Four key dates:
+    1) Declaration date: the board announces the dividend amount, record date,
+       and payment date.
+    2) Ex-dividend date ("ex-date"): the first day the stock trades without the
+       right to the declared dividend. If you buy ON or AFTER this date, you
+       do not get the upcoming dividend; if you buy BEFORE it, you do.
+    3) Record date: the date the company uses to determine which shareholders
+       are entitled to the dividend.
+    4) Payment date: the date the dividend is actually paid, often a few weeks
+       after the record date.
+- Since the U.S. moved to T+1 settlement on May 28, 2024, the ex-dividend date
+  for regular cash dividends is generally the SAME business day as the record
+  date. (Under the old T+2 system, it was one business day before the record
+  date.) If the record date falls on a non-business day, the ex-date is set on
+  the preceding business day. [TIME-SENSITIVE: rule-based]
+- Large dividends (generally those exceeding 25% of the stock's value) use
+  different timing: the ex-date is deferred until one business day after the
+  payment date.
+- Selling after the ex-date but before the payment date: if you were the holder
+  before the ex-date, you still receive the dividend; selling before the
+  ex-date means you sell away the right to it.
+- Price effect: with a significant dividend, the stock price may drop by about
+  the dividend amount on the ex-date.
+- Dividend reinvestment plans (DRIPs): you can have cash dividends
+  automatically reinvested to buy more shares (or fractions) of the company's
+  stock instead of receiving cash. This typically requires an agreement with
+  the company or your brokerage.
+- Taxes: dividends are generally taxable income in the year they are paid, even
+  if reinvested through a DRIP. (Tax rules vary; the bot should recommend a tax
+  professional.) [SECONDARY]
+- Fractional shares receive proportional dividends (e.g., 0.75 share x $10 =
+  $7.50).
+
+EXAMPLE (illustrative)
+A stock pays $2 per share per year. You own 50 shares: 50 x $2 = $100 per year
+in dividends before taxes.
+Dates for a regular dividend: Declared Feb 10; Record date and ex-date
+Monday Mar 10 (T+1 era); Paid Mar 24. To receive it, you must buy before Mar 10
+(i.e., by Friday Mar 7).
+
+COMMON MISCONCEPTIONS
+- "Buy the day before payment and collect the dividend." Eligibility depends on
+  owning before the ex-date, not the payment date.
+- "Dividends are free money." The price typically adjusts by about the dividend
+  amount on the ex-date, and dividends are generally taxed.
+- "All stable companies pay dividends." Some very successful companies pay none.
+
+RELATED TERMS: declaration date, ex-dividend date, record date, payment date,
+DRIP, payout ratio, special dividend, stock dividend
+
+SAMPLE Q&A
+Q: What is a dividend?
+A: A payment from a company to its shareholders, usually in cash, often from
+   profits. Companies aren't required to pay one.
+Q: What is the ex-dividend date and why does it matter?
+A: It's the first day the stock trades without the next dividend. To receive the
+   dividend, you must own the stock before the ex-date. Since May 2024, for most
+   regular dividends the ex-date and record date are the same day.
+Q: Will I still get the dividend if I sell after the ex-date?
+A: Yes, if you owned the shares before the ex-date, the dividend is yours even
+   if you sell afterward, before payment.
+
+SOURCES
+- Ex-dividend and record date rules, examples (Monday record = Monday ex; Sunday
+  record = Friday ex), selling before ex-date forfeits the dividend, price may
+  fall, large-dividend deferral rule: SEC "Fast Answers: Ex-Dividend Dates"
+  (sec.gov/fast-answers/answers-dividenhtm.html). [PRIMARY]
+- T+1 effective May 28, 2024; first record date under new ex-date rule May 29,
+  2024; record May 24 / May 28 / May 29 -> ex May 23 / May 24 / May 29: NYSE and
+  Nasdaq/Phlx/IEX rule filings and Nasdaq issuer alert
+  (sec.gov/files/rules/sro/nysenat/2024/34-99873.pdf; DTCC-hosted Nasdaq
+  alert). [PRIMARY]
+- T+1 settlement: SEC Investor Bulletin (investor.gov/newT1settlement-cycle).
+  [PRIMARY]
+- Four dividend dates, payment timing, 0.75 share example, no requirement to
+  pay: LegalClarity; AccountingTools; Stash FAQ. [SECONDARY]
+- DRIP: SEC Investor.gov "Direct Investing"
+  (investor.gov/researching-managing-investments/investing-your-own/direct-
+  investing) and glossary entry on direct investment plans. [PRIMARY]
+- Dividends taxable even when reinvested: Benzinga DRIP guide. [SECONDARY]
+- The 25%-of-value threshold for large distributions comes from the Nasdaq
+  issuer alert; the SEC Fast Answers page describes the same deferral for
+  "significant" dividends without giving the number. If unsure, the bot should
+  say "very large dividends."
+
+
+================================================================================
+15. DIVIDEND YIELD
+================================================================================
+DEFINITION
+Dividend yield is a ratio showing how much a company pays in dividends each
+year relative to its share price, expressed as a percentage.
+
+KEY POINTS
+- Formula: Dividend yield = annual dividends per share / price per share
+  (x 100 to express as a percent).
+- "Annual dividends per share" is typically the sum of dividends paid over the
+  past 12 months, or the current dividend rate annualized (for example, four
+  quarterly payments). Different websites may use different methods and
+  different prices, so reported yields can differ.
+- Yield moves with the share price even if the dividend doesn't change:
+    Price falls -> yield rises.
+    Price rises -> yield falls.
+  Yield also changes if the dividend is raised or cut.
+- A very high yield can be a warning sign, not just a bargain: it may reflect a
+  sharply falling stock price or a dividend the market expects to be cut.
+- A low or zero yield isn't "bad": some companies reinvest earnings into growth.
+- Yield measures income only; it ignores gains or losses from price changes.
+  Total return = price change + dividends.
+- Related ratio: payout ratio = dividends paid / net income. It helps judge
+  whether a dividend looks sustainable.
+
+EXAMPLES (illustrative)
+- Annual dividend $2.00, price $40: yield = 2 / 40 = 5%.
+- Annual dividend $1.10, price $50: yield = 1.10 / 50 = 2.2%.
+- Quarterly $0.50 x 4 = $2.00 annual; if price is $25, yield = 8%.
+  (Edge case: a yield this high would warrant checking why.)
+- Same $1 dividend: price $20 -> 5% yield; price $40 -> 2.5% yield.
+
+COMMON MISCONCEPTIONS
+- "Higher yield is always better." A high yield can signal risk.
+- "Yield is my total return." No, it excludes price changes.
+- "Yield is fixed." It changes every day with the price.
+
+RELATED TERMS: dividend per share, payout ratio, total return, ex-dividend date,
+dividend growth, DRIP
+
+SAMPLE Q&A
+Q: How do I calculate dividend yield?
+A: Divide the annual dividend per share by the current share price, then
+   multiply by 100. A $1 annual dividend on a $25 stock is a 4% yield.
+Q: Why did a stock's dividend yield go up when I didn't hear about a bigger
+   dividend?
+A: Probably because the share price fell. Yield = dividend / price, so a lower
+   price raises the yield.
+
+SOURCES
+- Formula (annual dividends per share / price per share), $50 / $1.10 = 2.2%
+  example, yields vary by source because of different prices or dividends:
+  Nova Scotia Securities Commission "Question of the Week: How are dividend
+  yields calculated?" [PRIMARY-regulator (Canadian)]
+- Formula and effect of price/dividend changes ($1 / $25 = 4%; price falls ->
+  yield rises): Fidelity Learning Center. [SECONDARY]
+- $2 / $40 = 5% example; $0.50 quarterly = $2.00 annual: educational notes and
+  calculators cited in research. [SECONDARY]
+- Payout ratio = dividends paid / net income: CB Insights. [SECONDARY]
+- "High yield can signal risk": Musaffa/educational pages. [SECONDARY]
+- Note: the formula is identical across every source checked.
+
+
+================================================================================
+16. BUYBACKS (SHARE REPURCHASES)
+================================================================================
+DEFINITION
+A stock buyback (share repurchase) is when a company buys back its own shares
+from the market or from shareholders.
+
+KEY POINTS
+- After a buyback, the company holds the shares itself (or retires them), so
+  the number of outstanding shares goes down. With fewer shares outstanding,
+  each remaining share represents a larger ownership percentage, and per-share
+  figures such as earnings per share (EPS) can rise even if total profit
+  doesn't change.
+- Buybacks are one way companies return cash to shareholders; dividends are the
+  other main way. Companies sometimes use both.
+- Common methods: open-market repurchases (the company's broker buys shares on
+  the exchange over time), accelerated share repurchases (ASRs), and structured
+  repurchase plans.
+- Rule 10b-18: an SEC safe harbor, adopted in 1982, that shields companies from
+  market-manipulation liability when they repurchase shares in line with its
+  conditions. It is voluntary and non-exclusive.
+- Why companies say they do them: return capital to shareholders, signal
+  confidence, offset share issuance from employee compensation, and tax
+  considerations. Critics argue buybacks can boost executive pay tied to
+  per-share metrics and may come at the expense of investment; supporters argue
+  they are an efficient way to return capital. This is a debated topic; the bot
+  should present both views and not take a side.
+- Taxes: since Jan 1, 2023, U.S. publicly traded corporations pay a 1% excise
+  tax on the fair market value of stock repurchased (Internal Revenue Code
+  Section 4501, added by the Inflation Reduction Act of 2022). Key features:
+    * Paid by the corporation, not the shareholder selling shares.
+    * Not deductible for income-tax purposes.
+    * Netting rule: the value of new shares issued during the year is
+      subtracted from repurchases.
+    * Small repurchase exception: corporations with $1 million or less of
+      repurchases in a year are exempt.
+    * Final Treasury/IRS regulations were issued November 21, 2025 and narrowed
+      the tax's scope in several ways (for example, exempting certain
+      acquisitive reorganizations).
+    * Proposals exist to raise the rate (for example, a 2026 Senate bill
+      proposing 4%), but proposals are not law. [TIME-SENSITIVE]
+- Disclosure: in May 2023 the SEC adopted new daily buyback disclosure
+  requirements, but the Fifth Circuit Court of Appeals vacated that rule on
+  December 19, 2023. Companies' earlier disclosure requirements remain in
+  effect unless and until new rules are adopted. [TIME-SENSITIVE]
+- Buybacks do not guarantee a higher stock price; announced programs also can
+  be authorized but not fully executed.
+
+EXAMPLE (illustrative)
+A company earns $10 million with 10 million shares outstanding: EPS = $1.00.
+It buys back 1 million shares, leaving 9 million. If earnings stay at $10
+million, EPS = 10 / 9 = about $1.11.
+Excise tax illustration: a $1 billion buyback would generate roughly $10
+million of tax (1%) before netting or exceptions.
+
+COMMON MISCONCEPTIONS
+- "A buyback means the company is more profitable." EPS can rise simply because
+  there are fewer shares; underlying profit may be unchanged.
+- "Buybacks are the same as dividends." Both return cash, but dividends pay
+  all shareholders directly while buybacks benefit selling shareholders now and
+  remaining shareholders through a larger ownership share.
+- "The excise tax is paid by investors." It's paid by the corporation.
+
+RELATED TERMS: share repurchase, treasury stock, accelerated share repurchase,
+Rule 10b-18, earnings per share (EPS), excise tax, capital return
+
+SAMPLE Q&A
+Q: What is a stock buyback?
+A: When a company buys its own shares, reducing the number of shares
+   outstanding. Each remaining share then represents a slightly bigger slice of
+   the company.
+Q: How do buybacks affect earnings per share?
+A: With fewer shares, the same total profit is divided among fewer shares, so
+   EPS goes up mechanically.
+Q: Are buybacks taxed?
+A: Companies pay a 1% federal excise tax on net repurchases above a small
+   threshold (since 2023). Shareholders are taxed on their own gains when they
+   sell.
+
+SOURCES
+- Buyback defined as a firm buying its own shares: Congressional Research
+  Service, "The 1% Excise Tax on Stock Repurchases (Buybacks)," R47397
+  (everycrsreport.com/reports/R47397.html). [PRIMARY]
+- 1% tax effective for repurchases after Dec 31, 2022; paid by the corporation;
+  nondeductible; netting of new issuances: CRS R47397; OceanTech 10-Q (SEC
+  filing); Goodwin Procter alert ("nondeductible 1% excise tax ... Section
+  4501"). [PRIMARY + SECONDARY]
+- $1 million exemption and net-repurchase base: Penn Wharton Budget Model
+  ("Raise the Excise Tax Rate on Stock Repurchases"). [SECONDARY]
+- Final regulations of Nov 21, 2025 narrowing the tax's scope: WilmerHale
+  client alert (Dec 15, 2025); Weaver. [SECONDARY]
+- Proposed increases (e.g., "Stock Buyback Accountability Act of 2026" raising
+  1% to 4%): text on democrats.senate.gov. It's a bill, not enacted law.
+  [PRIMARY (bill text) - status: proposal only]
+- Rule 10b-18 safe harbor (1982) and repurchase methods (open-market, ASR,
+  structured): Goodwin Procter, "Stock Buybacks: Recent Developments and Hot
+  Topics for Issuers." [SECONDARY]
+- SEC disclosure rule (May 2023) vacated by Fifth Circuit, Dec 19, 2023: Dechert,
+  KPMG, Davis Polk, Jenner & Block, Torys alerts (all consistent). [SECONDARY,
+  consistent]
+- EPS effect: math checked (10 / 9 = 1.11); also described in the New Republic
+  opinion piece, which was used only for the mechanical point, not for its
+  opinions. [SECONDARY]
+
+
+================================================================================
+17. QUICK GLOSSARY
+================================================================================
+Ask / offer ......... lowest price a seller will accept right now
+Authorized shares ... max shares a company's charter allows it to issue
+Bid ................. highest price a buyer will pay right now
+Blue chip ........... informal term for large, established companies
+Buyback ............. company repurchases its own shares
+Capital gain ........ profit from selling at a higher price than purchase
+Common stock ........ standard ownership shares, usually with voting rights
+Declaration date .... when the board announces a dividend
+Designated market maker (DMM)  NYSE firm responsible for fair, orderly trading
+                      in assigned stocks (formerly "specialist")
+Dividend ............ payment from a company to shareholders
+Dividend yield ...... annual dividend per share / share price
+DRIP ................ dividend reinvestment plan
+EPS ................. earnings per share
+Ex-dividend date .... first day a stock trades without the next dividend
+Float ............... shares available for public trading
+Limit order ......... order to trade at a set price or better
+Liquidity ........... how easily an asset can be traded without moving price
+Market cap .......... share price x shares outstanding
+Market maker ........ firm that quotes both bid and ask to provide liquidity
+Market order ........ order to trade immediately at the best available price
+Outstanding shares .. shares held by investors, excluding company treasury
+Preferred stock ..... stock class with different rights, often no voting
+Prospectus .......... offering document describing a securities offering
+Record date ......... date that determines who gets the dividend
+Reverse split ....... combines shares; raises price per share
+Spread .............. ask minus bid
+Stop order .......... becomes a market order when the stop price is reached
+Street name ......... shares registered to a broker on the investor's behalf
+T+1 ................. standard U.S. settlement one business day after trade
+Ticker .............. short code identifying a security
+Volume .............. shares traded in a period
+
+
+================================================================================
+18. VERIFICATION NOTES, CONFLICTS FOUND, AND OPEN ITEMS
+================================================================================
+HOW THIS FILE WAS VERIFIED
+Each topic was researched through web searches on October 20, 2026, favoring
+SEC/Investor.gov, FINRA, exchange rule filings, court-related legal alerts, and
+Congressional Research Service material, then cross-checked against other
+sources. All arithmetic examples were recomputed.
+
+WHAT WAS CONFIRMED BY PRIMARY SOURCES
+- Order types and their guarantees (SEC Investor.gov)
+- Bid, ask, and spread definitions (SEC Investor.gov glossary)
+- IPO process: Form S-1, prospectus, two ways to invest (SEC Investor.gov)
+- Reverse split mechanics and caution (SEC Investor.gov and FINRA)
+- Ex-dividend rules and T+1 change effective May 28, 2024 (SEC, NYSE, Nasdaq
+  filings)
+- Ticker history (SEC release 34-56037)
+- Buyback definition and 1% excise tax basics (CRS)
+
+CONFLICTS AND JUDGMENT CALLS
+1) Market-cap size buckets: FINRA-based sources give small-cap as $250M-$2B;
+   others use $300M-$2B. There is no official definition. The file gives both
+   and says so.
+2) Ticker lengths: sources disagree about the NYSE max (three vs. four) and
+   Nasdaq max (four vs. five), and historical conventions have loosened. The
+   file describes the convention as no longer reliable rather than stating a
+   hard rule.
+3) Early-close time: TipRanks lists 12:30 p.m. for early closes; NYSE-based
+   sources say 1:00 p.m. ET for stocks. The file uses 1:00 p.m. Check the
+   exchange calendar.
+4) Ex-dividend timing: older sources (and some training materials) say the ex-date
+   is one business day before the record date. That was true under T+2. Since
+   May 28, 2024 it is generally the same day as the record date. The file uses
+   the current rule.
+5) Robinhood's explainer lists "APPL" as Apple's ticker; the correct ticker is
+   AAPL. Not used.
+6) Several sources describe Nasdaq as one where "people buy directly from each
+   other"; that phrasing is inaccurate for a dealer market (market makers quote
+   prices). The file uses the market-maker description.
+7) Aggregator figures for NYSE/Nasdaq company counts and total market value were
+   inconsistent and dated, so they were excluded.
+
+ITEMS TO RE-VERIFY PERIODICALLY [TIME-SENSITIVE]
+- Buyback excise tax rate, exemptions, and any proposed changes (final
+  regulations issued Nov 21, 2025; rate-increase proposals pending).
+- SEC buyback disclosure rules (vacated Dec 19, 2023; the SEC could re-propose).
+- Exchange holiday schedule and early-close days (published yearly by
+  NYSE/Nasdaq).
+- Extended-hours windows (vary by broker; exchanges' own sessions may change).
+- Settlement cycle (T+1 since May 28, 2024; further changes possible).
+
+GAPS (not verified to a primary source)
+- The SEC Investor.gov page defining "stock" was only reached via a secondary
+  relay. Confirm the exact wording at investor.gov if quoting directly.
+- Trading volume has no primary-source definition retrieved; all sources
+  agreed.
+- "Stock price is driven by supply and demand" and reasons companies go public
+  are presented as general background knowledge.
+- Tax treatment of dividends (and reinvested dividends) varies by country and
+  situation; the file states only the general U.S. principle and relies on a
+  secondary source. The bot should refer users to a tax professional.
+
+DISCLAIMER FOR BOT OUTPUT
+This knowledge base is educational. It is not investment, tax, or legal advice.
+
+
+================================================================================
+19. FULL SOURCE LIST
+================================================================================
+PRIMARY / OFFICIAL
+- SEC Investor.gov, "Types of Orders":
+  https://www.investor.gov/introduction-investing/investing-basics/how-stock-markets-work/types-orders
+- SEC Investor Bulletin, "Understanding Order Types":
+  https://www.investor.gov/additional-resources/news-alerts/alerts-bulletins/investor-bulletin-understanding-order-types
+- SEC Investor.gov glossary, "Bid Price":
+  https://www.investor.gov/introduction-investing/investing-basics/glossary/bid-price
+- SEC Investor.gov glossary, "Ask Price":
+  https://www.investor.gov/introduction-investing/investing-basics/glossary/ask-price
+- SEC Investor Bulletin, "Investing in an IPO":
+  https://www.investor.gov/additional-resources/news-alerts/alerts-bulletins/investor-bulletin-investing-ipo
+- SEC Investor.gov glossary, "Initial Public Offering (IPO)":
+  https://www.investor.gov/introduction-investing/investing-basics/glossary/initial-public-offering-ipo
+- SEC Investor.gov glossary, "Reverse Stock Splits":
+  https://www.investor.gov/introduction-investing/investing-basics/glossary/reverse-stock-splits
+- FINRA, "Stock Splits":
+  https://www.finra.org/investors/learn-to-invest/types-investments/stocks/stock-splits
+- SEC Fast Answers, "Ex-Dividend Dates":
+  https://www.sec.gov/fast-answers/answers-dividenhtm.html
+- SEC Investor Bulletin, "New T+1 Settlement Cycle":
+  https://www.investor.gov/newT1settlement-cycle
+- SEC Investor.gov, "Direct Investing" (DSP/DRIP):
+  https://www.investor.gov/researching-managing-investments/investing-your-own/direct-investing
+- SEC release 34-56037 (ticker symbols, ticker tape history):
+  https://sec.gov/files/rules/sro/nms/2007/34-56037.pdf
+- NYSE National rule filing SR-NYSENAT-2024-12 (ex-dividend T+1):
+  https://www.sec.gov/files/rules/sro/nysenat/2024/34-99873.pdf
+- Nasdaq T+1 Corporate Action Issuer Alert (hosted by DTCC):
+  https://www.dtcc.com/-/media/Files/PDFs/T2/NASDAQ-T1-Corporate-Action-Issuer-Alert.pdf
+- Congressional Research Service R47397, "The 1% Excise Tax on Stock Repurchases":
+  https://www.everycrsreport.com/reports/R47397.html
+- Stock Buyback Accountability Act of 2026 (bill text; not law):
+  https://www.democrats.senate.gov/imo/media/doc/stock_buyback_accountability_act.pdf
+- Nova Scotia Securities Commission, dividend yield:
+  https://nssc.novascotia.ca/node/1146043
+
+SECONDARY (law firms, educators, brokers, dictionaries)
+- Goodwin Procter, Stock Buybacks: Recent Developments:
+  https://www.goodwinlaw.com/en/insights/publications/2023/04/04_10-stock-buybacks
+- WilmerHale, final Section 4501 regulations (Dec 2025):
+  https://www.wilmerhale.com/en/insights/client-alerts/20251215-favorable-stock-buyback-regulations-may-entitle-taxpayers-to-refunds
+- Dechert / KPMG / Davis Polk / Jenner & Block / Torys alerts on the vacated
+  SEC share repurchase disclosure rule:
+  https://www.kpmg.com/us/en/frv/reference-library/2024/sec-share-repurchase-disclosure-rules.html
+  https://www.davispolk.com/insights/client-update/fifth-circuit-vacates-sec-buyback-rule
+- Penn Wharton Budget Model, stock repurchase excise tax:
+  https://budgetmodel.wharton.upenn.edu/estimates/2025/1/13/raise-the-excise-tax-rate-on-stock-repurchases
+- Bankrate, "Outstanding shares":
+  https://www.bankrate.com/investing/outstanding-shares/
+- Wikipedia, "Market capitalization" (cites FINRA categories):
+  https://en.wikipedia.org/wiki/Market_capitalization
+- AAII dictionary, "Market capitalization" (quotes FINRA):
+  https://www.aaii.com/terms/m/15409-market-capitalization
+- Fidelity Learning Center, "Dividend yield":
+  https://www.fidelity.com/learning-center/trading-investing/dividend-yield
+- Corporate Finance Institute, "Stock symbol":
+  https://corporatefinanceinstitute.com/resources/knowledge/trading-investing/stock-symbol/
+- Corporate Finance Institute, "Volume of trade":
+  https://corporatefinanceinstitute.com/resources/knowledge/trading-investing/volume-of-trade/
+- Motley Fool, "Stock vs. share":
+  https://www.fool.com/investing/how-to-invest/stocks/stock-v-share
+- Motley Fool, "The SEC Approves New ABCs" (2007):
+  https://www.fool.com/investing/general/2007/07/12/the-sec-approve-new-abcs.aspx
+- Groww, "NYSE vs NASDAQ":
+  https://groww.in/blog/nyse-vs-nasdaq
+- Trade-Ideas Learning Center, "NYSE vs Nasdaq":
+  https://www.trade-ideas.com/learning-center/brokers/nyse-vs-nasdaq/
+- SmartAsset, "What Is a Stock Split":
+  https://smartasset.com/blog/investing/what-is-a-stock-split-and-why-do-they-occur/
+- LegalClarity, "Dividend record date":
+  https://legalclarity.org/dividend-record-date-what-it-is-and-how-it-works/
+- SEC Historical Society, Lexecon paper on Nasdaq's dealer market:
+  https://www.sechistorical.org/collection/papers/1990/1995_0101_NasdaqLexecon.pdf
+
+END OF FILE
+============================================================================
