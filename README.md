@@ -1,108 +1,114 @@
-# marketcourse
+# Market Course ♡
 
-## getting started 
-please start a pyenv
-run: 
-pip install -r requirements.txt    
+Market Course is an educational stock-market research application designed to make financial data and investing concepts easier to understand.
 
+The application combines live market data, financial analytics, SEC/company data, and a retrieval-based AI chatbot in an interactive Streamlit interface backed by FastAPI.
 
-APis used: 
+> Market Course is designed for educational purposes only and does not provide investment advice.
 
+---
 
-# AI Stock Education Platform
+## Features
 
-An AI-powered stock research and education platform that combines market data, company financials, and SEC filings.
+### Stock Research
 
-## APIs
+Search for a stock by ticker symbol and view a simplified snapshot of its recent performance.
 
-### Market Data API
+Current analytics include:
 
-Used for stock market data:
+- Current stock price
+- Historical return
+- Revenue growth
+- Annualized volatility
+- 50-day simple moving average
+- 200-day simple moving average
+- Historical price visualization
 
-- Current stock quotes
-- Historical prices
-- Open, high, low, close (OHLC)
-- Trading volume
+The goal is not only to display financial metrics, but also to explain what those numbers mean.
 
-This data will later be used to calculate returns, moving averages, volatility, momentum, and other market analytics.
+### Popular Stocks Dashboard
 
-### Alpha Vantage
+The homepage displays a collection of popular stocks with quick-access metrics such as:
 
-Used for company fundamentals:
+- Current price
+- Historical return
+- Revenue growth
+- Volatility
 
-- Income statements
-- Balance sheets
-- Cash flow statements
-- Company financial data
+Market Course caches stock data to reduce unnecessary API requests.
 
-This data will later be used to calculate revenue growth, profitability, financial health, valuation metrics, and other fundamental analytics.
+### Market Course AI
 
-### SEC EDGAR
+Market Course includes an educational AI assistant powered by Google Gemini.
 
-Used for official company filings:
+The chatbot uses a custom stock-market knowledge base and a lightweight RAG-style retrieval pipeline.
 
-- Company CIK lookup
-- 10-K filings
-- 10-Q filings
-- Filing metadata
-- Filing text
+Instead of sending the entire knowledge base to the model for every question, the application:
 
-SEC filings will eventually be processed and stored for the educational RAG chatbot so users can ask questions about a company's filings.
+1. Loads educational `.txt` files from the knowledge base.
+2. Splits the documents into smaller chunks.
+3. Compares the user's question with those chunks.
+4. Retrieves the most relevant sections.
+5. Sends only the selected context and question to Gemini.
+6. Returns an educational response based on the retrieved material.
 
-running backend: 
+Example questions:
 
-uvicorn src.app:app --reload
+- What is a P/E ratio?
+- What does volatility mean?
+- What's the difference between the S&P 500 and the Dow?
+- What is a 10-K?
+- What's the difference between revenue and earnings?
+- Why can a stock fall after beating earnings?
+- How do the three financial statements connect?
 
+### Educational Knowledge Base
 
-## Current Structure
+The RAG chatbot is supported by a growing stock-market education knowledge base.
 
-```text
-clients/
-├── marketdata_client.py
-├── alpha_vantage_client.py
-└── sec_client.py
+Topics currently include areas such as:
 
+- Stock market fundamentals
+- Financial statements
+- Growth and profitability
+- Stock valuation
+- Risk and return
+- Portfolio fundamentals
+- Stock market indexes
+- Earnings and earnings reports
+- SEC filings and EDGAR
 
-NOW
-[ ] UserProfile model
-[ ] StockService
-[ ] normalized Stock model
+The knowledge base is designed around plain-English explanations, examples, related terminology, common misconceptions, and common questions.
 
-NEXT
-[ ] AnalyticsService
-    [ ] returns
-    [ ] moving averages
-    [ ] volatility
-    [ ] growth
-    [ ] profitability
-    [ ] financial health
-    [ ] valuation
+---
 
-THEN
-[ ] scoring methodology
-[ ] DiscoveryService
-[ ] personalized match score
-[ ] explainable scores
-[ ] ComparisonService
+## Tech Stack
 
-THEN AI
-[ ] FilingService
-[ ] SEC text cleaning
-[ ] SEC section extraction
-[ ] chunking
-[ ] PostgreSQL
-[ ] pgvector
-[ ] EmbeddingService
-[ ] educational knowledge
-[ ] RAGService
+### Backend
 
-THEN PRODUCT
-[ ] backend routes
-[ ] authentication/users
-[ ] frontend dashboard
-[ ] profile onboarding
-[ ] stock search
-[ ] stock detail page
-[ ] comparisons
-[ ] watchlist
-[ ] AI tutor
+- Python
+- FastAPI
+- Pydantic
+- Google Gemini API
+
+### Frontend
+
+- Streamlit
+- Pandas
+
+### Financial Data
+
+- Market Data API
+- Alpha Vantage
+- SEC EDGAR
+
+### AI / RAG
+
+- Google Gemini
+- Custom knowledge-base chunking
+- Keyword-based retrieval
+- Context-grounded prompt generation
+
+---
+
+## Project Architecture
