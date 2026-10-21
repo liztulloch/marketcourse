@@ -1,0 +1,895 @@
+================================================================================
+EARNINGS AND EARNINGS REPORTS
+================================================================================
+
+PURPOSE
+
+This section explains company earnings, earnings reports, earnings per share,
+analyst expectations, earnings beats and misses, company guidance, earnings
+calls, and why stock prices often move after earnings announcements.
+
+================================================================================
+1. WHAT ARE EARNINGS?
+================================================================================
+
+DEFINITION
+
+Earnings generally refer to a company's profit over a particular period.
+
+Revenue represents money generated from a company's business activities before
+all expenses are subtracted.
+
+Earnings represent what remains after applicable costs and expenses are
+accounted for.
+
+KEY POINTS
+
+- Revenue and earnings are not the same thing.
+- A company can have growing revenue while its earnings decline.
+- Earnings can be positive or negative.
+- Negative earnings mean the company recorded a net loss for the period.
+- Investors often compare earnings across different periods to understand how
+  profitability is changing.
+- Earnings alone do not provide a complete picture of a company's financial
+  condition.
+
+SIMPLE EXAMPLE
+
+A company generates:
+
+Revenue: $10 million
+Total expenses: $8 million
+
+Simplified earnings:
+
+$10 million - $8 million = $2 million
+
+The company generated $10 million in revenue and $2 million in earnings.
+
+RELATED TERMS
+
+net income, profit, loss, revenue, expenses, EPS, profitability
+
+================================================================================
+2. EARNINGS REPORTS
+================================================================================
+
+DEFINITION
+
+An earnings report provides information about a company's financial performance
+over a particular reporting period.
+
+Public companies regularly provide financial information through filings and
+other earnings-related materials.
+
+An earnings report can help investors understand:
+
+- Revenue
+- Profit or loss
+- Earnings per share
+- Expenses
+- Cash flow
+- Financial position
+- Business performance
+- Management commentary
+
+Quarterly SEC reports are generally filed using Form 10-Q.
+
+Annual reports are generally filed using Form 10-K.
+
+KEY POINTS
+
+An earnings announcement may involve several different materials, including:
+
+- Earnings press release
+- SEC filing
+- Financial statements
+- Investor presentation
+- Earnings call
+- Management commentary
+
+The headline revenue and EPS numbers therefore represent only part of the
+information available when a company reports results.
+
+RELATED TERMS
+
+10-Q, 10-K, income statement, financial statements, earnings call
+
+================================================================================
+3. EARNINGS SEASON
+================================================================================
+
+DEFINITION
+
+Earnings season is an informal term for periods when many publicly traded
+companies release their quarterly financial results.
+
+KEY POINTS
+
+During earnings season investors may receive new information about:
+
+- Company revenue
+- Earnings
+- Earnings per share
+- Profit margins
+- Cash flow
+- Business segments
+- Management expectations
+
+Stocks can experience significant price movement around earnings announcements
+because the reports provide new information about company performance and
+expectations.
+
+RELATED TERMS
+
+quarterly results, earnings report, earnings call, EPS, guidance
+
+================================================================================
+4. EARNINGS PER SHARE (EPS)
+================================================================================
+
+DEFINITION
+
+Earnings per share, or EPS, measures how much of a company's earnings is
+attributable to each share of common stock.
+
+A simplified version of EPS is:
+
+EPS = Net Income / Weighted Average Shares Outstanding
+
+Actual accounting calculations can include additional adjustments.
+
+EXAMPLE
+
+Suppose a company earns:
+
+Net income = $100 million
+
+and has:
+
+Weighted average shares = 50 million
+
+Simplified EPS:
+
+$100 million / 50 million = $2.00 EPS
+
+KEY POINTS
+
+- EPS allows earnings to be expressed on a per-share basis.
+- EPS can increase because profit increased.
+- EPS can also increase when the number of shares decreases.
+- Share buybacks can therefore affect EPS.
+- Issuing additional shares can affect EPS.
+- EPS should not automatically be interpreted as company growth without
+  investigating what caused the change.
+
+RELATED TERMS
+
+net income, shares outstanding, diluted EPS, share buyback, dilution
+
+================================================================================
+5. BASIC VS. DILUTED EPS
+================================================================================
+
+BASIC EPS
+
+Basic EPS calculates earnings per share using the weighted average number of
+common shares actually outstanding during the period.
+
+DILUTED EPS
+
+Diluted EPS considers the potential effect of securities or compensation that
+could increase the number of common shares.
+
+Potential dilution can arise from instruments such as:
+
+- Stock options
+- Restricted stock
+- Convertible securities
+
+WHY IT MATTERS
+
+Diluted EPS attempts to show what EPS could look like after considering
+potential additional shares.
+
+As a result, diluted EPS can be lower than basic EPS.
+
+SIMPLE EXPLANATION
+
+Basic EPS:
+Uses the current weighted average common share count.
+
+Diluted EPS:
+Also considers potential shares that could dilute existing shareholders.
+
+RELATED TERMS
+
+dilution, stock options, convertible securities, weighted average shares
+
+================================================================================
+6. REVENUE VS. EARNINGS
+================================================================================
+
+REVENUE
+
+Revenue is money generated from the company's business activities before all
+expenses are deducted.
+
+EARNINGS
+
+Earnings represent profit after applicable costs and expenses.
+
+EXAMPLE
+
+Company:
+
+Revenue = $1 billion
+Expenses = $900 million
+Earnings = $100 million
+
+The company generated much more revenue than earnings because operating the
+business involved substantial expenses.
+
+IMPORTANT DISTINCTION
+
+A company's revenue can rise while earnings fall.
+
+Example:
+
+Previous year:
+
+Revenue = $1 billion
+Expenses = $800 million
+Earnings = $200 million
+
+Current year:
+
+Revenue = $1.2 billion
+Expenses = $1.1 billion
+Earnings = $100 million
+
+Revenue increased 20%, but earnings declined because expenses increased even
+more.
+
+SAMPLE Q&A
+
+Q: Is revenue the same as earnings?
+
+A: No. Revenue represents money generated by the business before all expenses
+are deducted. Earnings represent the profit remaining after applicable
+expenses.
+
+================================================================================
+7. EARNINGS ESTIMATES
+================================================================================
+
+DEFINITION
+
+An earnings estimate is a forecast of a company's expected earnings for a
+future reporting period.
+
+Analysts may publish estimates for financial metrics including:
+
+- EPS
+- Revenue
+- Growth
+- Other company-specific metrics
+
+Financial data providers may combine analyst forecasts into a consensus
+estimate.
+
+KEY POINT
+
+An estimate is a prediction, not a guaranteed result.
+
+When actual results are released, investors often compare those results against
+expectations.
+
+RELATED TERMS
+
+analyst estimate, consensus estimate, expectations, EPS
+
+================================================================================
+8. EARNINGS BEAT
+================================================================================
+
+DEFINITION
+
+An earnings beat occurs when a company's reported earnings exceed the
+expectation being used for comparison, commonly an analyst consensus estimate.
+
+EXAMPLE
+
+Expected EPS:
+
+$1.20
+
+Reported EPS:
+
+$1.35
+
+The company exceeded the EPS estimate by:
+
+$0.15
+
+This would generally be described as an earnings beat relative to that estimate.
+
+IMPORTANT
+
+An earnings beat does not guarantee that the stock price will rise.
+
+The market may also react to:
+
+- Revenue
+- Guidance
+- Profit margins
+- Cash flow
+- Business segment performance
+- Previously priced-in expectations
+- Management commentary
+
+RELATED TERMS
+
+earnings surprise, analyst estimate, EPS, consensus estimate
+
+================================================================================
+9. EARNINGS MISS
+================================================================================
+
+DEFINITION
+
+An earnings miss occurs when reported earnings are below the expectation being
+used for comparison.
+
+EXAMPLE
+
+Expected EPS:
+
+$2.00
+
+Actual EPS:
+
+$1.80
+
+The company missed that EPS estimate by:
+
+$0.20
+
+KEY POINT
+
+An earnings miss does not automatically mean the company's entire business is
+performing poorly.
+
+Investors typically consider the broader financial results and expectations.
+
+================================================================================
+10. REVENUE BEAT AND REVENUE MISS
+================================================================================
+
+A revenue beat occurs when reported revenue exceeds the revenue estimate being
+used for comparison.
+
+A revenue miss occurs when reported revenue is below that estimate.
+
+EXAMPLE
+
+Expected revenue:
+
+$5 billion
+
+Reported revenue:
+
+$5.3 billion
+
+The result represents a $300 million revenue beat relative to that estimate.
+
+IMPORTANT
+
+Revenue and earnings expectations are separate.
+
+A company can:
+
+- Beat revenue and beat earnings.
+- Beat revenue but miss earnings.
+- Miss revenue but beat earnings.
+- Miss both.
+
+This is one reason an earnings announcement cannot always be summarized using
+only one number.
+
+================================================================================
+11. EARNINGS SURPRISES
+================================================================================
+
+DEFINITION
+
+An earnings surprise is the difference between reported earnings and the
+earnings expectation used for comparison.
+
+Positive surprise:
+
+Actual earnings exceed expectations.
+
+Negative surprise:
+
+Actual earnings fall below expectations.
+
+EXAMPLE
+
+Expected EPS = $1.00
+
+Actual EPS = $1.10
+
+Surprise = +$0.10 per share
+
+KEY POINT
+
+Markets often respond not just to whether a company made money, but to how new
+information compares with expectations.
+
+================================================================================
+12. COMPANY GUIDANCE
+================================================================================
+
+DEFINITION
+
+Company guidance refers to forward-looking expectations management provides
+about future company performance.
+
+Guidance can involve expectations about metrics such as:
+
+- Revenue
+- Earnings
+- Expenses
+- Profit margins
+- Capital expenditures
+- Other company-specific operating metrics
+
+IMPORTANT
+
+Companies are not necessarily required to provide investors with projections of
+future operating results.
+
+Companies that do provide guidance may revise, withdraw, or discontinue
+guidance.
+
+GUIDANCE VS. RESULTS
+
+Results describe what already happened.
+
+Guidance discusses management's expectations about the future.
+
+This distinction is important because markets consider both historical
+performance and expected future performance.
+
+================================================================================
+13. ANALYST ESTIMATES
+================================================================================
+
+DEFINITION
+
+Analyst estimates are forecasts produced by financial analysts about future
+company performance.
+
+Analysts may estimate figures including:
+
+- Revenue
+- EPS
+- Profitability
+- Company-specific operating metrics
+
+Multiple analyst forecasts may be combined to create a consensus estimate.
+
+KEY POINTS
+
+- Analyst estimates are forecasts.
+- Analysts can be wrong.
+- Analysts can revise estimates as new information becomes available.
+- Different analysts may have different forecasts for the same company.
+
+RELATED TERMS
+
+consensus estimate, price target, earnings estimate, expectations
+
+================================================================================
+14. EARNINGS CALLS
+================================================================================
+
+DEFINITION
+
+An earnings call is a presentation or conference call conducted around a
+company's earnings results.
+
+Management typically discusses company performance and provides additional
+context about the results.
+
+Earnings calls can also include questions from analysts.
+
+INFORMATION DISCUSSED MAY INCLUDE
+
+- Financial results
+- Business performance
+- Strategy
+- Industry conditions
+- Guidance
+- Risks
+- Operational developments
+
+WHY THEY MATTER
+
+Financial statements provide numbers.
+
+Management discussion can provide additional explanation about what contributed
+to those numbers.
+
+However, management commentary should still be evaluated alongside the
+company's actual financial disclosures.
+
+================================================================================
+15. YEAR-OVER-YEAR (YOY) GROWTH
+================================================================================
+
+DEFINITION
+
+Year-over-year growth compares a financial metric with the corresponding period
+one year earlier.
+
+FORMULA
+
+YOY Growth =
+(Current Period - Prior-Year Period) / Prior-Year Period x 100
+
+EXAMPLE
+
+Revenue this year's quarter:
+
+$120 million
+
+Revenue same quarter last year:
+
+$100 million
+
+YOY growth:
+
+($120M - $100M) / $100M x 100 = 20%
+
+WHY USE YOY?
+
+Comparing the same period across years can help account for businesses with
+seasonal patterns.
+
+RELATED TERMS
+
+growth rate, revenue growth, earnings growth, quarter
+
+================================================================================
+16. QUARTER-OVER-QUARTER (QOQ) GROWTH
+================================================================================
+
+DEFINITION
+
+Quarter-over-quarter growth compares a financial metric with the immediately
+preceding quarter.
+
+FORMULA
+
+QOQ Growth =
+(Current Quarter - Previous Quarter) / Previous Quarter x 100
+
+EXAMPLE
+
+Previous-quarter revenue:
+
+$100 million
+
+Current-quarter revenue:
+
+$110 million
+
+QOQ growth:
+
+($110M - $100M) / $100M x 100 = 10%
+
+YOY VS. QOQ
+
+YOY:
+Compares with the corresponding period one year earlier.
+
+QOQ:
+Compares with the immediately preceding quarter.
+
+Both comparisons can provide useful but different information about growth.
+
+================================================================================
+17. FISCAL QUARTER
+================================================================================
+
+DEFINITION
+
+A fiscal quarter is one of four periods within a company's fiscal year.
+
+They are commonly labeled:
+
+Q1
+Q2
+Q3
+Q4
+
+Companies use quarterly periods to report financial performance.
+
+KEY POINT
+
+A company's fiscal quarters do not necessarily align with the standard
+January-through-December calendar.
+
+Therefore, "Q1" should not automatically be assumed to mean January through
+March without checking the company's fiscal calendar.
+
+================================================================================
+18. FISCAL YEAR VS. CALENDAR YEAR
+================================================================================
+
+CALENDAR YEAR
+
+A calendar year runs:
+
+January 1 through December 31.
+
+FISCAL YEAR
+
+A fiscal year is the 12-month accounting period a company uses for financial
+reporting.
+
+A company's fiscal year does not necessarily match the calendar year.
+
+WHY IT MATTERS
+
+When comparing financial periods, investors should verify which fiscal periods
+the company is reporting.
+
+Two companies can identify periods differently if their fiscal years end at
+different times.
+
+RELATED TERMS
+
+fiscal quarter, annual report, 10-K, Q1, Q2, Q3, Q4
+
+================================================================================
+19. WHY STOCKS MOVE AFTER EARNINGS
+================================================================================
+
+Earnings announcements provide new information about a company.
+
+Market participants can react to information including:
+
+- Reported revenue
+- Reported earnings
+- Earnings per share
+- Growth rates
+- Profitability
+- Cash flow
+- Management guidance
+- Business trends
+- Management commentary
+- Differences between actual results and expectations
+
+The stock price response therefore depends on more than whether the company
+reported a profit.
+
+EXPECTATIONS MATTER
+
+Suppose investors expected extraordinarily strong growth.
+
+The company then reports good growth, but weaker growth than expected.
+
+The financial result can be positive while the market's reaction is negative
+because expectations were higher.
+
+Likewise, a company can report declining results but still experience a positive
+market reaction if results are better than what investors expected.
+
+KEY IDEA
+
+Markets react to new information relative to existing expectations, not merely
+whether a company's headline numbers appear positive or negative.
+
+================================================================================
+20. WHY CAN A STOCK FALL AFTER BEATING EARNINGS?
+================================================================================
+
+A company beating an earnings estimate does NOT guarantee its stock price will
+increase.
+
+Possible reasons include:
+
+1. REVENUE MISSED EXPECTATIONS
+
+A company might beat its EPS estimate while reporting weaker-than-expected
+revenue.
+
+2. GUIDANCE DISAPPOINTED
+
+Past-quarter results may be strong while management provides weaker expectations
+for future periods.
+
+3. OTHER FINANCIAL METRICS WEAKENED
+
+Investors may focus on information such as:
+
+- Profit margins
+- Cash flow
+- Expenses
+- Business segment performance
+- Customer or operating metrics relevant to the company
+
+4. EXPECTATIONS WERE ALREADY VERY HIGH
+
+Investors may have expected results substantially better than the published
+consensus estimate.
+
+Merely beating the consensus estimate might therefore not satisfy market
+expectations.
+
+5. MANAGEMENT COMMENTARY PROVIDED NEW INFORMATION
+
+Information shared in the earnings materials or earnings call can alter
+expectations about the company's future.
+
+SIMPLE EXAMPLE
+
+Suppose:
+
+Expected EPS = $2.00
+Actual EPS = $2.15
+
+The company beat the EPS estimate.
+
+But suppose management also communicates expectations for slower future
+revenue growth.
+
+Investors could lower their expectations about future company performance,
+potentially resulting in a lower stock price despite the EPS beat.
+
+IMPORTANT
+
+A stock's reaction to earnings cannot be predicted from an earnings beat or
+miss alone.
+
+================================================================================
+QUICK COMPARISONS
+================================================================================
+
+REVENUE VS. EARNINGS
+
+Revenue:
+Money generated by the business before all expenses.
+
+Earnings:
+Profit remaining after applicable expenses.
+
+----------------------------------------
+
+BASIC EPS VS. DILUTED EPS
+
+Basic EPS:
+Uses weighted average common shares outstanding.
+
+Diluted EPS:
+Also incorporates the potential effect of dilutive securities.
+
+----------------------------------------
+
+EARNINGS BEAT VS. MISS
+
+Beat:
+Reported earnings exceed the estimate being used for comparison.
+
+Miss:
+Reported earnings fall below the estimate being used for comparison.
+
+----------------------------------------
+
+YOY VS. QOQ
+
+YOY:
+Compares a period with the corresponding period one year earlier.
+
+QOQ:
+Compares a quarter with the immediately preceding quarter.
+
+----------------------------------------
+
+RESULTS VS. GUIDANCE
+
+Results:
+Describe financial performance that already occurred.
+
+Guidance:
+Describes management's expectations about future performance.
+
+================================================================================
+COMMON MISCONCEPTIONS
+================================================================================
+
+"Earnings and revenue are the same thing."
+
+No. Revenue generally represents money generated before all expenses, while
+earnings represent profit after applicable expenses.
+
+----------------------------------------
+
+"If a company beats earnings, its stock will rise."
+
+Not necessarily. Investors respond to many pieces of information and to how
+those results compare with expectations.
+
+----------------------------------------
+
+"If a company reports positive earnings, the quarter was automatically good."
+
+Not necessarily. Investors may compare earnings with previous periods,
+expectations, revenue, cash flow, guidance, and other company-specific
+information.
+
+----------------------------------------
+
+"Higher EPS always means the underlying business improved."
+
+Not necessarily. EPS depends on both earnings and the number of shares used in
+its calculation. Share-count changes can therefore affect EPS.
+
+----------------------------------------
+
+"Analyst estimates tell us what the company will earn."
+
+No. Estimates are forecasts and can differ from actual results.
+
+================================================================================
+SAMPLE QUESTIONS FOR THE RAG CHATBOT
+================================================================================
+
+Q: What are earnings?
+Q: Are earnings the same as profit?
+Q: What's the difference between revenue and earnings?
+Q: What is an earnings report?
+Q: What is earnings season?
+Q: What is EPS?
+Q: How is EPS calculated?
+Q: What's the difference between basic and diluted EPS?
+Q: What is an earnings estimate?
+Q: What does it mean to beat earnings?
+Q: What is an earnings miss?
+Q: What is a revenue beat?
+Q: Can a company beat revenue but miss earnings?
+Q: What is an earnings surprise?
+Q: What is company guidance?
+Q: What's the difference between results and guidance?
+Q: What is an analyst estimate?
+Q: What happens during an earnings call?
+Q: What does year-over-year growth mean?
+Q: What does quarter-over-quarter growth mean?
+Q: What's the difference between YOY and QOQ?
+Q: What is a fiscal quarter?
+Q: What's the difference between a fiscal year and calendar year?
+Q: Why do stocks move after earnings?
+Q: Why can a stock fall after beating earnings?
+Q: Does beating earnings mean a stock will go up?
+
+================================================================================
+RELATED TOPICS
+================================================================================
+
+income statement
+revenue
+net income
+profit margins
+cash flow
+earnings per share
+P/E ratio
+analyst estimates
+company guidance
+10-Q
+10-K
+SEC EDGAR
+revenue growth
+profitability

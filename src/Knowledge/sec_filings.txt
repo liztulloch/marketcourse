@@ -1,0 +1,742 @@
+================================================================================
+SEC FILINGS AND EDGAR
+================================================================================
+
+PURPOSE
+
+This section explains the SEC's EDGAR system and common SEC filings used to
+research publicly traded companies.
+
+SEC filings can provide information about a company's financial performance,
+business, risks, management, ownership, and important corporate events.
+
+================================================================================
+1. WHAT IS THE SEC?
+================================================================================
+
+DEFINITION
+
+The SEC is the U.S. Securities and Exchange Commission.
+
+The SEC is a U.S. federal agency responsible for administering and enforcing
+federal securities laws and overseeing important parts of U.S. securities
+markets.
+
+Public companies are required to make various disclosures and filings with
+the SEC.
+
+These filings allow investors and the public to access important information
+about publicly traded companies.
+
+RELATED TERMS
+
+SEC, securities regulation, public company, disclosure, EDGAR
+
+================================================================================
+2. WHAT IS EDGAR?
+================================================================================
+
+DEFINITION
+
+EDGAR is the SEC's Electronic Data Gathering, Analysis, and Retrieval system.
+
+EDGAR provides free public access to millions of documents filed with the SEC.
+
+Investors can use EDGAR to research companies and retrieve documents including:
+
+- Registration statements
+- Annual reports
+- Quarterly reports
+- Current reports
+- Prospectuses
+- Ownership filings
+- Other SEC filings
+
+Users can search for companies using information such as company names or
+ticker symbols.
+
+WHY EDGAR MATTERS
+
+Financial websites often summarize company information.
+
+EDGAR allows users to access the filings submitted to the SEC themselves.
+
+SAMPLE Q&A
+
+Q: What is EDGAR?
+
+A: EDGAR is the SEC's electronic filing database. It provides free public
+access to company filings such as 10-K annual reports, 10-Q quarterly reports,
+8-K current reports, and registration statements.
+
+================================================================================
+3. FORM 10-K
+================================================================================
+
+DEFINITION
+
+Form 10-K is an annual report filed by public companies with the SEC.
+
+It provides detailed information about the company's business and financial
+condition.
+
+A 10-K can contain information about:
+
+- The company's business
+- Financial statements
+- Company risks
+- Management's discussion of financial results
+- Legal proceedings
+- Company operations
+- Other required disclosures
+
+WHY IT MATTERS
+
+A 10-K is one of the most important sources for researching a public company's
+business and financial condition.
+
+Unlike a short company overview from a financial website, a 10-K contains
+detailed disclosures filed with the SEC.
+
+RELATED TERMS
+
+annual report, SEC filing, financial statements, MD&A, risk factors, EDGAR
+
+================================================================================
+4. FORM 10-Q
+================================================================================
+
+DEFINITION
+
+Form 10-Q is a quarterly report filed by public companies with the SEC.
+
+It provides updated information about the company's financial position and
+operations during the reporting period.
+
+A 10-Q generally contains:
+
+- Quarterly financial statements
+- Information about company operations
+- Management discussion
+- Updates to certain risks and disclosures
+
+KEY POINT
+
+A 10-Q provides more frequent updates than a 10-K.
+
+The 10-K provides annual information, while the 10-Q provides information for
+quarterly reporting periods.
+
+RELATED TERMS
+
+quarterly report, earnings, financial statements, 10-K, EDGAR
+
+================================================================================
+5. 10-K VS. 10-Q
+================================================================================
+
+10-K
+
+- Annual filing
+- Provides detailed yearly information
+- Contains extensive information about the company's business
+- Contains annual financial information and disclosures
+
+10-Q
+
+- Quarterly filing
+- Provides more frequent financial updates
+- Covers recent quarterly performance and developments
+
+SIMPLE EXPLANATION
+
+A 10-K is the major annual company filing.
+
+A 10-Q provides quarterly updates between annual reports.
+
+SAMPLE Q&A
+
+Q: What's the difference between a 10-K and a 10-Q?
+
+A: A 10-K is an annual SEC filing containing detailed information about a
+company's business and financial condition. A 10-Q is a quarterly SEC filing
+that provides more frequent updates about financial performance and operations.
+
+================================================================================
+6. FORM 8-K
+================================================================================
+
+DEFINITION
+
+Form 8-K is used by public companies to report certain important corporate
+events.
+
+Unlike a 10-K or 10-Q, an 8-K is not primarily a regularly scheduled annual or
+quarterly financial report.
+
+Instead, it reports certain events that occur between regular reporting periods.
+
+An 8-K can therefore provide information about recent corporate developments.
+
+WHY IT MATTERS
+
+If an investor wants to know whether an important corporate event has recently
+been disclosed, checking recent 8-K filings can be useful.
+
+RELATED TERMS
+
+current report, material event, corporate event, SEC disclosure
+
+================================================================================
+7. 10-K VS. 10-Q VS. 8-K
+================================================================================
+
+10-K:
+Annual report containing detailed information about the company.
+
+10-Q:
+Quarterly report providing more frequent financial and operational updates.
+
+8-K:
+Current report used to report certain important corporate events.
+
+EASY WAY TO REMEMBER
+
+10-K = annual
+
+10-Q = quarterly
+
+8-K = important current events
+
+SAMPLE Q&A
+
+Q: Which SEC filing should I look at for annual financial information?
+
+A: The 10-K is the primary annual filing.
+
+Q: Which filing gives quarterly updates?
+
+A: The 10-Q.
+
+Q: Which filing can tell me about a recent important corporate event?
+
+A: An 8-K may report certain important corporate events.
+
+================================================================================
+8. FORM S-1
+================================================================================
+
+DEFINITION
+
+Form S-1 is a registration statement commonly associated with companies
+registering securities for a public offering.
+
+An S-1 can provide extensive information about a company before its securities
+are offered publicly.
+
+Information can include:
+
+- The company's business
+- Financial information
+- Risks
+- Management
+- Intended use of offering proceeds
+- Information concerning the securities offering
+
+WHY IT MATTERS
+
+An S-1 can be especially useful when researching a company preparing for an
+initial public offering.
+
+RELATED TERMS
+
+IPO, registration statement, prospectus, offering, SEC
+
+================================================================================
+9. PROSPECTUS
+================================================================================
+
+DEFINITION
+
+A prospectus is a disclosure document associated with a securities offering.
+
+It provides information investors can use to learn about the issuer and the
+offering.
+
+Information can include:
+
+- Company information
+- Financial information
+- Risk factors
+- Offering terms
+- Use of proceeds
+
+RELATED TERMS
+
+IPO, securities offering, S-1, registration statement
+
+================================================================================
+10. FORM 4
+================================================================================
+
+DEFINITION
+
+Form 4 is associated with reporting certain transactions involving company
+insiders and company securities.
+
+These filings can provide information about transactions involving shares or
+other company securities by covered insiders.
+
+IMPORTANT
+
+An insider transaction should not automatically be interpreted as evidence
+that a stock will rise or fall.
+
+Transactions can occur for many reasons.
+
+The filing provides information about the reported transaction. Investors
+should avoid assuming a motive that is not disclosed.
+
+RELATED TERMS
+
+insider transaction, beneficial ownership, executive, director
+
+================================================================================
+11. FORMS 3, 4, AND 5
+================================================================================
+
+Forms 3, 4, and 5 are associated with reporting beneficial ownership and
+transactions involving certain company insiders.
+
+A simplified distinction is:
+
+Form 3:
+Initial ownership reporting for covered insiders.
+
+Form 4:
+Reports certain changes in ownership.
+
+Form 5:
+Used for certain ownership information that is reported on an annual basis.
+
+These filings can help researchers examine disclosed insider ownership and
+transactions.
+
+RELATED TERMS
+
+insider ownership, beneficial ownership, Form 4
+
+================================================================================
+12. FORM 13F
+================================================================================
+
+DEFINITION
+
+Form 13F is associated with reports filed by certain institutional investment
+managers concerning specified securities holdings.
+
+Researchers sometimes use 13F filings to examine reported institutional
+holdings.
+
+IMPORTANT LIMITATION
+
+A 13F should not be treated as a complete real-time picture of everything an
+investment manager owns or is currently doing.
+
+The filing reflects information required by the reporting framework.
+
+Therefore:
+
+"What did this institution report holding?"
+
+is different from:
+
+"What does this institution own at this exact moment?"
+
+RELATED TERMS
+
+institutional investor, holdings, investment manager, SEC filing
+
+================================================================================
+13. SCHEDULE 13D
+================================================================================
+
+DEFINITION
+
+Schedule 13D is a beneficial-ownership filing associated with certain
+significant ownership positions in publicly traded securities.
+
+It can provide information about:
+
+- The reporting person
+- The ownership position
+- Information required about the acquisition
+- Certain intentions or purposes associated with the position
+
+These filings can be useful when researching significant shareholders.
+
+RELATED TERMS
+
+beneficial ownership, shareholder, SEC filing, Schedule 13G
+
+================================================================================
+14. SCHEDULE 13G
+================================================================================
+
+DEFINITION
+
+Schedule 13G is another beneficial-ownership filing associated with certain
+significant ownership positions.
+
+Schedule 13D and Schedule 13G relate to beneficial ownership but apply under
+different reporting circumstances.
+
+When researching ownership, investors should examine the actual filing rather
+than assuming that all significant shareholders file the same form.
+
+RELATED TERMS
+
+13D, beneficial ownership, shareholder
+
+================================================================================
+15. RISK FACTORS
+================================================================================
+
+DEFINITION
+
+Public-company filings can contain a section describing risks associated with
+the company and its business.
+
+Risk factors might relate to areas such as:
+
+- Business operations
+- Competition
+- Financial conditions
+- Regulation
+- Technology
+- Supply chains
+- Customers
+- Economic conditions
+
+The particular risks vary by company.
+
+WHY IT MATTERS
+
+Risk-factor disclosures can help investors understand problems that management
+identifies as potentially important to the company.
+
+IMPORTANT
+
+A risk being disclosed does not mean that the risk will definitely occur.
+
+Likewise, investors should not assume that two companies have identical risks.
+
+================================================================================
+16. MANAGEMENT'S DISCUSSION AND ANALYSIS (MD&A)
+================================================================================
+
+DEFINITION
+
+Management's Discussion and Analysis, commonly called MD&A, is a section of
+company filings in which management discusses aspects of the company's
+financial condition and operating results.
+
+The section helps provide context around financial information.
+
+It can help answer questions such as:
+
+- What contributed to changes in revenue?
+- What contributed to changes in expenses?
+- What business conditions affected the company?
+- How does management explain changes in financial performance?
+
+WHY IT MATTERS
+
+Financial statements show financial figures.
+
+MD&A can provide management's explanation and discussion of those figures.
+
+IMPORTANT
+
+Management commentary should be considered alongside the company's financial
+statements and other disclosures.
+
+RELATED TERMS
+
+management commentary, 10-K, 10-Q, financial statements
+
+================================================================================
+17. FINANCIAL STATEMENTS IN SEC FILINGS
+================================================================================
+
+SEC filings can contain important financial statements.
+
+Three major financial statements are:
+
+1. Income statement
+2. Balance sheet
+3. Cash flow statement
+
+INCOME STATEMENT
+
+Shows information about company revenue, expenses, and profit or loss over a
+period.
+
+BALANCE SHEET
+
+Shows assets, liabilities, and shareholders' equity at a point in time.
+
+CASH FLOW STATEMENT
+
+Shows cash flows associated with operating, investing, and financing
+activities.
+
+Together, these statements provide different views of the company's financial
+condition and performance.
+
+RELATED TERMS
+
+income statement, balance sheet, cash flow statement, financial reporting
+
+================================================================================
+18. HOW TO READ A 10-K
+================================================================================
+
+A beginner does not necessarily need to read a 10-K from the first page to the
+last page.
+
+Useful areas to examine include:
+
+1. Business
+
+Learn what the company does and how the company describes its operations.
+
+2. Risk Factors
+
+Identify important risks disclosed by the company.
+
+3. MD&A
+
+Read management's discussion of operating results and financial condition.
+
+4. Financial Statements
+
+Review:
+
+- Revenue
+- Expenses
+- Profit
+- Assets
+- Liabilities
+- Cash flow
+
+5. Notes to Financial Statements
+
+The notes can provide important additional explanation about financial
+statement items.
+
+A financial figure should not always be interpreted in isolation. Context from
+the rest of the filing can matter.
+
+================================================================================
+19. MATERIAL AND CORPORATE EVENTS
+================================================================================
+
+Companies sometimes experience important developments between normal quarterly
+or annual reporting periods.
+
+Certain events may trigger current reporting through Form 8-K.
+
+Therefore, someone researching a company should not necessarily look only at
+the most recent 10-K.
+
+Recent filings can provide newer information.
+
+SAMPLE Q&A
+
+Q: Where should I look for recent company events?
+
+A: Check the company's recent SEC filings. Form 8-K is used to report certain
+important current corporate events.
+
+================================================================================
+20. INSIDER TRANSACTIONS
+================================================================================
+
+DEFINITION
+
+Insider transactions refer to reported transactions involving certain people
+associated with a company and the company's securities.
+
+SEC ownership filings can provide information about these transactions.
+
+IMPORTANT
+
+"Insider transaction" does not automatically mean illegal insider trading.
+
+The existence of a reported transaction alone also does not tell you why the
+transaction happened.
+
+Researchers should distinguish:
+
+reported insider ownership transactions
+
+from:
+
+illegal trading based on material nonpublic information.
+
+These are not the same concept.
+
+================================================================================
+21. HOW EDGAR FITS INTO COMPANY RESEARCH
+================================================================================
+
+EDGAR can serve as a primary source when researching publicly traded companies.
+
+For example:
+
+Want annual company information?
+Look for a 10-K.
+
+Want a quarterly update?
+Look for a 10-Q.
+
+Want information about certain recent corporate events?
+Look for an 8-K.
+
+Researching an IPO?
+Look for the registration statement and prospectus, commonly including an S-1.
+
+Researching certain insider transactions?
+Look at ownership filings such as Form 4.
+
+Researching institutional holdings?
+Certain Form 13F filings may be relevant.
+
+Researching significant beneficial ownership?
+Schedule 13D or 13G filings may be relevant.
+
+================================================================================
+QUICK SEC FILING CHEAT SHEET
+================================================================================
+
+10-K
+Purpose: Annual company report
+Think: Full-year company information
+
+10-Q
+Purpose: Quarterly company report
+Think: Quarterly financial update
+
+8-K
+Purpose: Current report
+Think: Certain important recent events
+
+S-1
+Purpose: Securities registration
+Think: Company preparing for a public offering
+
+Form 4
+Purpose: Reports certain insider ownership transactions
+Think: Insider transaction disclosure
+
+Form 13F
+Purpose: Certain institutional investment-manager holdings reports
+Think: Reported institutional holdings
+
+Schedule 13D / 13G
+Purpose: Certain significant beneficial-ownership disclosures
+Think: Significant shareholder information
+
+================================================================================
+COMMON MISCONCEPTIONS
+================================================================================
+
+"A 10-K is just an earnings report."
+
+No. A 10-K is a detailed annual SEC filing containing considerably more
+information than headline earnings figures.
+
+-------------------------------------------------------------------------------
+
+"10-K and 10-Q mean the same thing."
+
+No. A 10-K is an annual filing, while a 10-Q provides quarterly information.
+
+-------------------------------------------------------------------------------
+
+"8-K means eight thousand."
+
+No. 8-K is the name of an SEC form used for current reporting of certain
+corporate events.
+
+-------------------------------------------------------------------------------
+
+"An SEC filing tells me whether I should buy the stock."
+
+No. SEC filings provide information. They do not determine whether a particular
+investment is suitable for an investor.
+
+-------------------------------------------------------------------------------
+
+"Form 4 activity automatically means the stock is going up or down."
+
+No. A reported transaction does not by itself establish what will happen to a
+stock price.
+
+-------------------------------------------------------------------------------
+
+"EDGAR is a stock-data website."
+
+EDGAR is the SEC's electronic filing system. It provides access to official
+documents submitted through the SEC filing system.
+
+================================================================================
+SAMPLE QUESTIONS FOR THE RAG CHATBOT
+================================================================================
+
+Q: What is the SEC?
+Q: What is EDGAR?
+Q: What is a 10-K?
+Q: What is a 10-Q?
+Q: What is an 8-K?
+Q: What's the difference between a 10-K and a 10-Q?
+Q: What's the difference between a 10-K, 10-Q, and 8-K?
+Q: Which SEC filing contains annual financial information?
+Q: Where can I find quarterly company results?
+Q: Where can I find recent corporate events?
+Q: What is an S-1?
+Q: What SEC filing should I look at before an IPO?
+Q: What is a prospectus?
+Q: What is Form 4?
+Q: What are Forms 3, 4, and 5?
+Q: What is Form 13F?
+Q: What are Schedule 13D and Schedule 13G?
+Q: What are risk factors?
+Q: What is MD&A?
+Q: What financial statements are included in company filings?
+Q: How do I read a 10-K?
+Q: Where can I see insider transactions?
+Q: Does insider selling mean a stock will fall?
+Q: Is insider trading the same as an insider transaction?
+Q: Where can I find a company's SEC filings?
+
+================================================================================
+RELATED TOPICS
+================================================================================
+
+earnings
+earnings reports
+financial statements
+income statement
+balance sheet
+cash flow statement
+revenue
+net income
+EPS
+IPO
+company analysis
+risk
+shareholders
+insider ownership
+institutional investors

@@ -32,3 +32,696 @@ Periodic adjustment of an index's component weights back to the weights its rule
 
 Why indexes are used as benchmarks
 An index provides a standard yardstick to judge performance. Investors and fund managers compare a portfolio's or fund's return against a relevant index (for example, a U.S. large-cap stock fund against the S&P 500) to see whether it outperformed or underperformed the market segment it targets. The benchmark should match the investment's style and market segment. Indexes are also used to gauge overall market direction, as the basis for index funds and ETFs, and as a reference for measures such as beta and alpha. Indexes do not include fees or trading costs, so a real fund tracking one will return slightly less.
+
+
+================================================================================
+STOCK MARKET INDEXES
+================================================================================
+
+PURPOSE
+This section explains major U.S. stock market indexes, how indexes are
+constructed, how they differ, and how investors use them as benchmarks.
+
+================================================================================
+1. WHAT IS A STOCK MARKET INDEX?
+================================================================================
+
+DEFINITION
+
+A stock market index is a measurement that tracks the performance of a selected
+group of stocks.
+
+Instead of following one company, an index combines information from many
+companies into a single measurement. This makes it easier to understand how a
+particular part of the stock market is performing.
+
+KEY POINTS
+
+- An index tracks a group of stocks.
+- Different indexes track different groups of companies.
+- Some indexes focus on large companies, while others focus on smaller companies
+  or companies listed on a particular exchange.
+- An index's weighting method determines how much influence each company has on
+  the index.
+- Index values are mainly useful for tracking changes over time.
+- Investors often use indexes as benchmarks for comparing investment
+  performance.
+- An index itself is not an investment that can be purchased directly.
+
+EXAMPLE
+
+Suppose an index tracks a collection of large U.S. companies. If the combined
+performance of those companies rises, the index generally rises. If their
+combined performance falls, the index generally falls.
+
+RELATED TERMS
+
+benchmark, constituent, market capitalization, weighting, S&P 500, Dow Jones
+Industrial Average, Nasdaq Composite, Russell 2000
+
+================================================================================
+2. S&P 500
+================================================================================
+
+DEFINITION
+
+The S&P 500 is a stock market index designed to measure the performance of
+approximately 500 large U.S. companies.
+
+KEY POINTS
+
+- The S&P 500 focuses primarily on large U.S. companies.
+- It includes companies from many different sectors of the economy.
+- It is commonly used as a benchmark for U.S. large-cap stocks.
+- The S&P 500 uses float-adjusted market-capitalization weighting.
+- Larger companies generally have more influence on the index than smaller
+  companies.
+- Having a high stock price alone does not give a company greater influence.
+  The company's float-adjusted market capitalization is what matters for its
+  weighting.
+- The companies included in the S&P 500 can change over time.
+
+EXAMPLE
+
+Suppose Company A has a much larger float-adjusted market capitalization than
+Company B. A similar percentage price movement in Company A generally has more
+influence on the S&P 500 than the same percentage movement in Company B.
+
+RELATED TERMS
+
+large-cap, market capitalization, float-adjusted market capitalization,
+benchmark, constituent, S&P Dow Jones Indices
+
+================================================================================
+3. DOW JONES INDUSTRIAL AVERAGE (DJIA)
+================================================================================
+
+DEFINITION
+
+The Dow Jones Industrial Average, usually called the Dow or DJIA, is a U.S.
+stock market index containing 30 prominent companies.
+
+KEY POINTS
+
+- The Dow contains far fewer companies than the S&P 500.
+- It is often used as a general indicator of the performance of large,
+  established U.S. companies.
+- The Dow is price-weighted.
+- This means stocks with higher share prices have more influence on the index
+  than stocks with lower share prices.
+- A company's influence in the Dow therefore does not directly correspond to
+  the company's total market capitalization.
+- The companies included in the Dow can change over time.
+
+RELATED TERMS
+
+DJIA, Dow, price-weighted index, blue-chip company, index constituent,
+S&P 500
+
+================================================================================
+4. S&P 500 VS. DOW JONES INDUSTRIAL AVERAGE
+================================================================================
+
+DEFINITION
+
+The S&P 500 and Dow Jones Industrial Average are both widely followed U.S.
+stock market indexes, but they track different collections of companies and
+use different weighting methods.
+
+KEY DIFFERENCES
+
+NUMBER OF COMPANIES
+
+S&P 500:
+- Approximately 500 large U.S. companies.
+
+Dow:
+- 30 prominent U.S. companies.
+
+WEIGHTING
+
+S&P 500:
+- Float-adjusted market-capitalization weighted.
+- Larger companies generally have more influence.
+
+Dow:
+- Price weighted.
+- Stocks with higher share prices have more influence.
+
+MARKET COVERAGE
+
+S&P 500:
+- Includes a much larger collection of companies.
+- Provides broader coverage of large U.S. companies.
+
+Dow:
+- Includes only 30 companies.
+- Provides a narrower snapshot.
+
+WHY THEY CAN MOVE DIFFERENTLY
+
+The S&P 500 and Dow can move differently because:
+
+1. They contain different collections of stocks.
+2. They weight those stocks differently.
+3. A high-priced stock can have substantial influence on the Dow because the
+   Dow is price weighted.
+4. Large-market-cap companies have greater influence on the S&P 500 because
+   it is market-cap weighted.
+
+SIMPLE EXPLANATION
+
+The S&P 500 tracks roughly 500 large U.S. companies and gives greater weight
+to companies with larger float-adjusted market values.
+
+The Dow tracks only 30 companies and gives greater weight to stocks with
+higher prices.
+
+SAMPLE Q&A
+
+Q: What's the difference between the S&P 500 and the Dow?
+
+A: The biggest differences are how many companies they track and how they are
+weighted. The S&P 500 contains roughly 500 large U.S. companies and is weighted
+by float-adjusted market capitalization. The Dow contains 30 prominent companies
+and is price weighted, meaning higher-priced stocks have more influence.
+Because they contain different stocks and calculate their indexes differently,
+they can perform differently.
+
+Q: Is the S&P 500 just another name for the Dow?
+
+A: No. They are separate indexes with different companies and different
+weighting methods.
+
+Q: Why can the Dow rise while the S&P 500 falls?
+
+A: They contain different collections of companies and weight those companies
+differently. The Dow's price-weighting system can also cause particular
+high-priced stocks to have considerable influence on its movement.
+
+RELATED TERMS
+
+S&P 500, DJIA, market-cap weighting, price weighting, benchmark
+
+================================================================================
+5. NASDAQ COMPOSITE
+================================================================================
+
+DEFINITION
+
+The Nasdaq Composite is an index that tracks a broad collection of securities
+listed on the Nasdaq Stock Market.
+
+KEY POINTS
+
+- The Nasdaq Composite is associated with companies listed on Nasdaq.
+- It includes substantially more companies than the Nasdaq-100.
+- It is commonly associated with technology and growth companies because those
+  companies make up an important portion of the Nasdaq market.
+- The Nasdaq Composite and Nasdaq-100 are not the same index.
+- The Nasdaq Composite is market-capitalization weighted.
+
+COMMON MISCONCEPTION
+
+"The Nasdaq and Nasdaq Composite are the same thing."
+
+They are not. Nasdaq is a stock exchange, while the Nasdaq Composite is an
+index tracking securities listed on that exchange.
+
+RELATED TERMS
+
+Nasdaq, Nasdaq-100, stock exchange, technology stocks, growth stocks
+
+================================================================================
+6. NASDAQ-100
+================================================================================
+
+DEFINITION
+
+The Nasdaq-100 is an index consisting of 100 of the largest non-financial
+companies listed on the Nasdaq Stock Market, subject to the index's eligibility
+rules.
+
+KEY POINTS
+
+- Nasdaq-100 and Nasdaq Composite are different indexes.
+- Nasdaq-100 is much more selective.
+- Financial companies are excluded from the Nasdaq-100.
+- The index is strongly associated with large technology and growth-oriented
+  companies, although it is not exclusively a technology index.
+
+NASDAQ COMPOSITE VS. NASDAQ-100
+
+Nasdaq Composite:
+- Broad collection of Nasdaq-listed securities.
+- Covers a much larger portion of the Nasdaq market.
+
+Nasdaq-100:
+- Focuses on 100 large non-financial Nasdaq-listed companies.
+
+RELATED TERMS
+
+Nasdaq Composite, Nasdaq Stock Market, QQQ, technology, growth stocks
+
+================================================================================
+7. RUSSELL 2000
+================================================================================
+
+DEFINITION
+
+The Russell 2000 is a U.S. stock market index designed to measure the
+performance of approximately 2,000 smaller U.S. companies.
+
+KEY POINTS
+
+- The Russell 2000 is widely associated with small-cap stocks.
+- It provides a different view of the market than indexes focused on large
+  companies.
+- It is commonly used as a benchmark for U.S. small-cap stock performance.
+- Because it measures smaller companies, its performance can differ
+  substantially from the S&P 500.
+
+S&P 500 VS. RUSSELL 2000
+
+S&P 500:
+- Primarily large companies.
+
+Russell 2000:
+- Primarily smaller companies.
+
+The indexes therefore measure different areas of the U.S. stock market.
+
+RELATED TERMS
+
+small-cap stocks, Russell indexes, benchmark, S&P 500, market capitalization
+
+================================================================================
+8. WILSHIRE 5000
+================================================================================
+
+DEFINITION
+
+The Wilshire 5000 is a broad U.S. stock market index designed to represent a
+large portion of the publicly traded U.S. equity market.
+
+KEY POINTS
+
+- It is intended to provide broad exposure to the U.S. equity market.
+- It is broader than indexes such as the S&P 500 or Dow.
+- Despite the name, the actual number of securities represented by an index can
+  change over time.
+- It can be used as a benchmark for examining broad U.S. equity-market
+  performance.
+
+RELATED TERMS
+
+total market index, broad-market index, S&P 500, benchmark
+
+================================================================================
+9. MARKET-CAP WEIGHTING
+================================================================================
+
+DEFINITION
+
+A market-capitalization-weighted index gives companies with larger market
+capitalizations more influence over the index.
+
+Market capitalization is generally:
+
+Market Cap = Share Price x Shares Outstanding
+
+KEY POINTS
+
+- Larger companies receive larger weights.
+- Smaller companies receive smaller weights.
+- If a heavily weighted company moves substantially, it can have a greater
+  effect on the index.
+- The S&P 500 uses a float-adjusted version of market-cap weighting.
+
+EXAMPLE
+
+Imagine an index containing two companies:
+
+Company A market value = $900 billion
+Company B market value = $100 billion
+
+Company A represents a much larger portion of the combined market value and
+therefore has much more influence in a market-cap-weighted index.
+
+RELATED TERMS
+
+market capitalization, float-adjusted market cap, index weighting, S&P 500
+
+================================================================================
+10. PRICE WEIGHTING
+================================================================================
+
+DEFINITION
+
+A price-weighted index gives stocks with higher share prices more influence
+over the index.
+
+KEY POINTS
+
+- Weight depends heavily on the stock's share price.
+- It does not directly depend on the company's total market capitalization.
+- The Dow Jones Industrial Average is a well-known example.
+- A higher-priced Dow stock can have more influence than a lower-priced stock
+  even when the lower-priced company's total market capitalization is larger.
+
+EXAMPLE
+
+In a simplified price-weighted index:
+
+Stock A = $200 per share
+Stock B = $50 per share
+
+Stock A would have more influence on the index because its share price is
+higher.
+
+RELATED TERMS
+
+DJIA, Dow divisor, share price, market-cap weighting
+
+================================================================================
+11. EQUAL WEIGHTING
+================================================================================
+
+DEFINITION
+
+An equal-weighted index assigns approximately the same weight to each company
+in the index rather than giving larger or higher-priced companies more
+influence.
+
+EXAMPLE
+
+If a simplified equal-weighted index contains 100 stocks, each would initially
+represent approximately 1% of the index.
+
+KEY POINTS
+
+- Company size does not determine the initial weighting.
+- Price movements cause weights to drift over time.
+- Rebalancing is therefore needed to restore the target equal weights.
+- Equal weighting produces different performance characteristics from
+  market-cap weighting.
+
+RELATED TERMS
+
+weighting, rebalancing, market-cap weighting
+
+================================================================================
+12. INDEX CONSTITUENTS
+================================================================================
+
+DEFINITION
+
+An index constituent is an individual security included in an index.
+
+KEY POINTS
+
+- Each index has rules determining which securities are eligible.
+- Constituents can be added or removed.
+- Different indexes use different eligibility and selection methods.
+- A company can appear in more than one index.
+
+EXAMPLE
+
+If a company qualifies for both a large-cap index and another index based on
+its listing or sector, the company's stock can be a constituent of multiple
+indexes.
+
+RELATED TERMS
+
+index membership, component, eligibility, reconstitution
+
+================================================================================
+13. INDEX REBALANCING AND RECONSTITUTION
+================================================================================
+
+DEFINITION
+
+Index maintenance includes periodically updating an index so that it continues
+to follow its stated methodology.
+
+REBALANCING
+
+Rebalancing generally refers to adjusting the weights of securities within an
+index.
+
+RECONSTITUTION
+
+Reconstitution generally refers to reviewing index membership and potentially
+adding or removing securities.
+
+KEY POINTS
+
+- Indexes are not necessarily static.
+- Companies can be added or removed.
+- Weights can change.
+- Different index providers use different schedules and methodologies.
+
+RELATED TERMS
+
+index constituent, weighting, methodology, index provider
+
+================================================================================
+14. WHAT DOES AN INDEX MEASURE?
+================================================================================
+
+An index measures the performance of the particular collection of securities
+defined by its methodology.
+
+Therefore, statements such as:
+
+"The market increased today."
+
+can be incomplete without identifying which market measurement is being used.
+
+For example:
+
+- S&P 500 represents a broad group of large U.S. companies.
+- Dow represents a much smaller collection of prominent companies.
+- Russell 2000 focuses on smaller U.S. companies.
+- Nasdaq Composite focuses on securities listed on Nasdaq.
+
+Different indexes can therefore move differently on the same day.
+
+RELATED TERMS
+
+market performance, benchmark, market segment
+
+================================================================================
+15. WHY ARE INDEXES USED AS BENCHMARKS?
+================================================================================
+
+DEFINITION
+
+A benchmark provides a reference point that can be used to compare investment
+performance.
+
+EXAMPLE
+
+If a portfolio returned 7% during a period while a relevant market index
+returned 10%, comparing the two provides more information than looking at the
+portfolio's 7% return alone.
+
+However, a useful comparison requires an appropriate benchmark. Comparing a
+portfolio of small companies with an index consisting primarily of large
+companies may not provide an apples-to-apples comparison.
+
+KEY POINTS
+
+- Benchmarks provide context.
+- Different benchmarks represent different market segments.
+- An appropriate benchmark should represent the type of investments being
+  evaluated.
+
+RELATED TERMS
+
+performance, relative return, portfolio, S&P 500
+
+================================================================================
+16. INDEX VS. STOCK EXCHANGE
+================================================================================
+
+DEFINITION
+
+An index measures the performance of a selected group of securities.
+
+A stock exchange is a marketplace where securities are listed and traded.
+
+EXAMPLE
+
+Nasdaq is a stock exchange.
+
+The Nasdaq Composite is an index.
+
+NYSE is a stock exchange.
+
+The Dow Jones Industrial Average and S&P 500 are indexes.
+
+SIMPLE EXPLANATION
+
+Exchange = where securities are traded.
+
+Index = a measurement of how a selected group of securities is performing.
+
+COMMON MISCONCEPTION
+
+"The S&P 500 is a stock exchange."
+
+No. The S&P 500 is an index.
+
+RELATED TERMS
+
+NYSE, Nasdaq, S&P 500, Nasdaq Composite, stock exchange
+
+================================================================================
+17. INDEX VS. ETF
+================================================================================
+
+DEFINITION
+
+An index is a measurement.
+
+An exchange-traded fund (ETF) is an investment fund whose shares can be bought
+and sold.
+
+Some ETFs are designed to track the performance of an index.
+
+KEY POINTS
+
+- An index defines or measures a basket of securities.
+- An ETF is an actual investment product.
+- An index does not itself have shares that investors purchase.
+- An index-tracking ETF attempts to provide performance corresponding to its
+  target index, subject to the fund's expenses and tracking differences.
+
+EXAMPLE
+
+The S&P 500 is an index.
+
+An ETF may be designed to track the S&P 500.
+
+Buying shares of that ETF is not the same thing as buying the index itself.
+
+RELATED TERMS
+
+ETF, index fund, benchmark, tracking error, expense ratio
+
+================================================================================
+18. WHY CAN'T YOU INVEST DIRECTLY IN AN INDEX?
+================================================================================
+
+An index is a mathematical measurement rather than an investment security.
+
+It does not issue shares that investors can purchase.
+
+Instead, investors who want exposure to the securities represented by an
+index commonly use investment products designed to track that index, such as
+index mutual funds or exchange-traded funds.
+
+SIMPLE EXAMPLE
+
+Think of an index like a scoreboard.
+
+The scoreboard measures what is happening, but you cannot purchase the
+scoreboard's score.
+
+An index fund or ETF is an investment product that attempts to follow the
+index.
+
+SAMPLE Q&A
+
+Q: Can I buy the S&P 500?
+
+A: You cannot purchase the S&P 500 index itself because an index is a
+measurement, not an investment security. Investors can instead purchase shares
+of funds designed to track the S&P 500.
+
+Q: Is an ETF the same thing as an index?
+
+A: No. An index measures a collection of securities. An ETF is an investment
+fund whose shares can be traded. Some ETFs are designed to track an index.
+
+================================================================================
+QUICK COMPARISON
+================================================================================
+
+S&P 500
+Focus: Large U.S. companies
+Weighting: Float-adjusted market capitalization
+Coverage: Approximately 500 companies
+
+Dow Jones Industrial Average
+Focus: Prominent U.S. companies
+Weighting: Price
+Coverage: 30 companies
+
+Nasdaq Composite
+Focus: Securities listed on Nasdaq
+Weighting: Market capitalization
+Coverage: Broad Nasdaq-listed universe
+
+Nasdaq-100
+Focus: Large non-financial Nasdaq-listed companies
+Coverage: 100 companies
+
+Russell 2000
+Focus: Smaller U.S. companies
+Coverage: Approximately 2,000 companies
+
+Wilshire 5000
+Focus: Broad U.S. equity market
+Coverage: Broad-market index
+
+================================================================================
+COMMON MISCONCEPTIONS
+================================================================================
+
+"The Dow and S&P 500 are the same thing."
+No. They contain different companies and use different weighting methodologies.
+
+"The S&P 500 contains the 500 most expensive stocks."
+No. Stock price alone does not determine S&P 500 membership or weighting.
+
+"The Nasdaq is an index."
+Nasdaq can refer to the stock exchange. The Nasdaq Composite and Nasdaq-100 are
+indexes associated with Nasdaq-listed securities.
+
+"If the Dow rises, every U.S. stock rose."
+No. The Dow measures only its constituents.
+
+"I can buy the S&P 500."
+Not directly. An index is a measurement. Investment funds can be designed to
+track it.
+
+"A 20% weight means 20% of the companies in the index."
+No. Weight describes how much influence an investment has in the index, not the
+percentage of constituent companies.
+
+================================================================================
+SAMPLE QUESTIONS THE CHATBOT SHOULD ANSWER
+================================================================================
+
+Q: What is a stock market index?
+Q: What is the S&P 500?
+Q: What is the Dow?
+Q: What's the difference between the S&P 500 and the Dow?
+Q: Why can the S&P 500 rise while the Dow falls?
+Q: What is the Nasdaq Composite?
+Q: What's the difference between Nasdaq and the Nasdaq Composite?
+Q: What's the difference between the Nasdaq Composite and Nasdaq-100?
+Q: What is the Russell 2000?
+Q: What is the Wilshire 5000?
+Q: What does market-cap weighted mean?
+Q: What does price weighted mean?
+Q: What does equal weighted mean?
+Q: What is an index constituent?
+Q: What is index rebalancing?
+Q: What is index reconstitution?
+Q: Why do investors use benchmarks?
+Q: What's the difference between an index and a stock exchange?
+Q: What's the difference between an index and an ETF?
+Q: Can I buy the S&P 500 directly?
